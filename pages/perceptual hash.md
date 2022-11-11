@@ -1,0 +1,4 @@
+- [코드](https://github.com/JohannesBuchner/imagehash/blob/master/imagehash/__init__.py#L260)
+- frequencies를 줄이기 위해 DCT(discrete cosine transform)을 적용한 average hash
+- Input: image(PIL Instance), hash_size(int)=8, highfreq_factor(int)=4
+-

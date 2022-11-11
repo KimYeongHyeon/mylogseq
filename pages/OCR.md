@@ -1,0 +1,11 @@
+-
+-
+- ## 라이브러리
+- [[EasyOCR]]
+- [[PaddleOCR]]
+-
+-
+- ## 과정
+- [[Text Recognition]]
+- [[Text Detection]]
+- [[Post Processing]]

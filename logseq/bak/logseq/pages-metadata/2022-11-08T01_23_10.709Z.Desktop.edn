@@ -1,0 +1,108 @@
+[{:block/name "a",
+  :block/created-at 1665983092128,
+  :block/updated-at 1665983092128}
+ {:block/name "b",
+  :block/created-at 1665983092128,
+  :block/updated-at 1665983092128}
+ {:block/name "c",
+  :block/created-at 1665983092128,
+  :block/updated-at 1665983092128}
+ {:block/name "canceled",
+  :block/created-at 1665983092128,
+  :block/updated-at 1665983092128}
+ {:block/name "cancelled",
+  :block/created-at 1665983092128,
+  :block/updated-at 1665983092128}
+ {:block/name "card",
+  :block/created-at 1665983092128,
+  :block/updated-at 1665983092128}
+ {:block/name "contents",
+  :block/created-at 1665983092128,
+  :block/updated-at 1665983092128}
+ {:block/name "doing",
+  :block/created-at 1665983092128,
+  :block/updated-at 1665983092128}
+ {:block/name "done",
+  :block/created-at 1665983092128,
+  :block/updated-at 1665983092128}
+ {:block/name "favorites",
+  :block/created-at 1665983092128,
+  :block/updated-at 1665983092128}
+ {:block/name "hashing",
+  :block/created-at 1667803700531,
+  :block/updated-at 1667811490917}
+ {:block/name "hasing",
+  :block/created-at 1667806644216,
+  :block/updated-at 1667806644216}
+ {:block/name "in-progress",
+  :block/created-at 1665983092128,
+  :block/updated-at 1665983092128}
+ {:block/name "later",
+  :block/created-at 1665983092128,
+  :block/updated-at 1665983092128}
+ {:block/name "nov 7th, 2022",
+  :block/created-at 1667803502849,
+  :block/updated-at 1667803502849}
+ {:block/name "now",
+  :block/created-at 1665983092128,
+  :block/updated-at 1665983092128}
+ {:block/name "oct 17th, 2022",
+  :block/created-at 1665991347316,
+  :block/updated-at 1665991347316}
+ {:block/name "oct 21st, 2022",
+  :block/created-at 1666318117869,
+  :block/updated-at 1666318117869}
+ {:block/name "todo",
+  :block/created-at 1665983092128,
+  :block/updated-at 1665983092128}
+ {:block/name "value-chain",
+  :block/created-at 1665982541525,
+  :block/updated-at 1665985347559}
+ {:block/name "wait",
+  :block/created-at 1665983092128,
+  :block/updated-at 1665983092128}
+ {:block/name "waiting",
+  :block/created-at 1665983092128,
+  :block/updated-at 1665983092128}
+ {:block/name "김윤영 수석님",
+  :block/created-at 1666318198508,
+  :block/updated-at 1666318198508}
+ {:block/name "데이터전략파트",
+  :block/created-at 1665982532740,
+  :block/updated-at 1665990735969}
+ {:block/name "딥러닝 모델 이용",
+  :block/created-at 1667803586010,
+  :block/updated-at 1667803679523}
+ {:block/name "부서원",
+  :block/created-at 1666318160476,
+  :block/updated-at 1666318239359}
+ {:block/name "비정형",
+  :block/created-at 1665985602502,
+  :block/updated-at 1665991216535}
+ {:block/name "이미지 raw 정보 이용",
+  :block/created-at 1667806656947,
+  :block/updated-at 1667806685975}
+ {:block/name "이미지 중복 검사",
+  :block/created-at 1667803558743,
+  :block/updated-at 1667806852890}
+ {:block/name "자체ocr",
+  :block/created-at 1665991216535,
+  :block/updated-at 1665991411910}
+ {:block/name "전승유 수석님",
+  :block/created-at 1666318175734,
+  :block/updated-at 1666318175734}
+ {:block/name "정성원 수석님",
+  :block/created-at 1666318170566,
+  :block/updated-at 1666325568970}
+ {:block/name "조재경 수석님",
+  :block/created-at 1666318239358,
+  :block/updated-at 1666318239358}
+ {:block/name "진우영 수석님",
+  :block/created-at 1666318202204,
+  :block/updated-at 1666318202204}
+ {:block/name "현종열 수석님",
+  :block/created-at 1666318190003,
+  :block/updated-at 1666318190003}
+ {:block/name "홍주성 수석님",
+  :block/created-at 1666318214359, 
+  :block/updated-at 1666318214359}]

@@ -1,0 +1,3 @@
+- 링크: https://github.com/JaidedAI/EasyOCR
+-
+-

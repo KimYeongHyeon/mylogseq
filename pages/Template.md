@@ -1,0 +1,20 @@
+- Paper
+  template:: Paper
+	- 저자:
+	- 날짜:
+	- 상태:
+	- 주소:
+	-
+	- ## Introduction
+	-
+	- ## Related Works
+	-
+	- ## Methodologies
+	-
+	- ## Experiments
+	-
+	- ## Reesults
+	-
+-
+-
+-

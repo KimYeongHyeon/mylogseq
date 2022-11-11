@@ -1,0 +1,19 @@
+- Paper
+	- 저자: Hwang
+	- 날짜: 2022
+	- 상태: On
+	- 주소: https://github.com/clovaai/cord
+	-
+	- ## Introduction
+	-
+	- ## Related Works
+	-
+	- ## Methodologies
+	- ![image.png](../assets/image_1668156486844_0.png)
+	-
+	- ## Experiments
+	-
+	- ## Reesults
+	-
+-
+-
