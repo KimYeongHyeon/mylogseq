@@ -19,9 +19,6 @@
  {:block/name "contents",
   :block/created-at 1665983092128,
   :block/updated-at 1665983092128}
- {:block/name "dbnet 사용시 문제",
-  :block/created-at 1668490081543,
-  :block/updated-at 1668490123906}
  {:block/name "doing",
   :block/created-at 1665983092128,
   :block/updated-at 1665983092128}
@@ -29,8 +26,8 @@
   :block/created-at 1665983092128,
   :block/updated-at 1665983092128}
  {:block/name "easyocr",
-  :block/created-at 1668489766935,
-  :block/updated-at 1668490081543}
+  :block/created-at 1668132364063,
+  :block/updated-at 1668132378871}
  {:block/name "favorites",
   :block/created-at 1665983092128,
   :block/updated-at 1665983092128}
@@ -49,9 +46,9 @@
  {:block/name "nov 10th, 2022",
   :block/created-at 1668036644290,
   :block/updated-at 1668036644290}
- {:block/name "nov 15th, 2022",
-  :block/created-at 1668489766176,
-  :block/updated-at 1668489766176}
+ {:block/name "nov 11th, 2022",
+  :block/created-at 1668123536638,
+  :block/updated-at 1668123536638}
  {:block/name "nov 8th, 2022",
   :block/created-at 1667870554035,
   :block/updated-at 1667870554035}
@@ -59,8 +56,8 @@
   :block/created-at 1665983092128,
   :block/updated-at 1665983092128}
  {:block/name "ocr",
-  :block/created-at 1668489767333,
-  :block/updated-at 1668489767333}
+  :block/created-at 1668132091484,
+  :block/updated-at 1668156704134}
  {:block/name "oct 17th, 2022",
   :block/created-at 1665991347316,
   :block/updated-at 1665991347316}
@@ -68,27 +65,27 @@
   :block/created-at 1666318117869,
   :block/updated-at 1666318117869}
  {:block/name "paddleocr",
-  :block/created-at 1668489767289,
-  :block/updated-at 1668489767289}
+  :block/created-at 1668132384650,
+  :block/updated-at 1668132871670}
  {:block/name "perceptual hash",
-  :block/created-at 1668489767993,
-  :block/updated-at 1668489767993}
+  :block/created-at 1668133503670,
+  :block/updated-at 1668140096813}
  {:block/name "post processing",
-  :block/created-at 1668489767327,
-  :block/updated-at 1668489767327}
+  :block/created-at 1668155933281,
+  :block/updated-at 1668156682913}
  {:block/name
   "post-ocr parsing: building simple and robust parser via bio tagging",
-  :block/created-at 1668489768102,
-  :block/updated-at 1668489768102}
+  :block/created-at 1668156129925,
+  :block/updated-at 1668156624519}
  {:block/name "template",
-  :block/created-at 1668489769016,
-  :block/updated-at 1668490017368}
+  :block/created-at 1668156143571,
+  :block/updated-at 1668156629729}
  {:block/name "text detection",
-  :block/created-at 1668489767317,
-  :block/updated-at 1668489767317}
+  :block/created-at 1668156704133,
+  :block/updated-at 1668156704133}
  {:block/name "text recognition",
-  :block/created-at 1668489767301,
-  :block/updated-at 1668489767301}
+  :block/created-at 1668156698706,
+  :block/updated-at 1668156698706}
  {:block/name "todo",
   :block/created-at 1665983092128,
   :block/updated-at 1665983092128}
@@ -110,9 +107,6 @@
  {:block/name "딥러닝 모델 이용",
   :block/created-at 1667803586010,
   :block/updated-at 1667872496450}
- {:block/name "문제해결",
-  :block/created-at 1668489909310,
-  :block/updated-at 1668490057475}
  {:block/name "부서원",
   :block/created-at 1666318160476,
   :block/updated-at 1666318239359}
