@@ -1,0 +1,14 @@
+- 문제해결
+	- 날짜: 2022/11/15
+	- 태그: GPU, CUDA, DBNet
+	- 상태:
+	- ## 발생상황
+	- 분석계 workspace에서 EasyOCR사용간 dbNet 초기화시 컴파일 에러 발생
+	- CPU는 이상없이 컴파일 완료
+	- GPU 컴파일시 nvcc fatal: Unsupported gpu architecture 'compute_80' 이 뜨며 컴파일 실패
+	- ## 이유
+	-
+	- ## 해결방안
+	-
+	- ## 참고
+	-

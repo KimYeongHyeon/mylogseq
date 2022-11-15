@@ -1,3 +1,5 @@
 - 링크: https://github.com/JaidedAI/EasyOCR
 -
+- ## 사용간 문제
+	- [[dbnet 사용시 문제]]
 -
