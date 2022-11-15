@@ -57,7 +57,7 @@
   :block/updated-at 1665983092128}
  {:block/name "ocr",
   :block/created-at 1668132091484,
-  :block/updated-at 1668155933282}
+  :block/updated-at 1668156704134}
  {:block/name "oct 17th, 2022",
   :block/created-at 1665991347316,
   :block/updated-at 1665991347316}
@@ -72,14 +72,20 @@
   :block/updated-at 1668140096813}
  {:block/name "post processing",
   :block/created-at 1668155933281,
-  :block/updated-at 1668156129926}
+  :block/updated-at 1668156682913}
  {:block/name
   "post-ocr parsing: building simple and robust parser via bio tagging",
   :block/created-at 1668156129925,
-  :block/updated-at 1668156487412}
+  :block/updated-at 1668156624519}
  {:block/name "template",
   :block/created-at 1668156143571,
-  :block/updated-at 1668156418902}
+  :block/updated-at 1668156629729}
+ {:block/name "text detection",
+  :block/created-at 1668156704133,
+  :block/updated-at 1668156704133}
+ {:block/name "text recognition",
+  :block/created-at 1668156698706,
+  :block/updated-at 1668156698706}
  {:block/name "todo",
   :block/created-at 1665983092128,
   :block/updated-at 1665983092128}
