@@ -3,9 +3,11 @@
 	- 태그: [[CRAFT]]
 	- 상태: 상황인지
 	- ## 발생상황
-	- make_charbox.py의 split_word_equal_gap(self, word_img_w, word_img_h, word)에서 발생하는 문제
-	-
-		-
+		- make_charbox.py의 split_word_equal_gap(self, word_img_w, word_img_h, word)에서 발생하는 문제
+		- 글자내에 섞인 공백이 일반적인 글자와 동일한 크기라 가정하고 글자를 나눔
+		- pseudo labeling시 정확히 글자에
+			-
+			-
 	-
 	- ## 이유
 	-
