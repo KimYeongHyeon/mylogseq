@@ -1,0 +1,7 @@
+- 주소: https://github.com/JaidedAI/EasyOCR/tree/master/trainer/craft
+-
+- ## 분석
+-
+-
+- ## 수정사항
+-
