@@ -3,6 +3,7 @@
 - ## 라이브러리
 - [[EasyOCR]]
 - [[PaddleOCR]]
+- #### Detection
 -
 -
 - ## 과정
