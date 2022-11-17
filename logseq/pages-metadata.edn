@@ -21,7 +21,7 @@
   :block/updated-at 1665983092128}
  {:block/name "craft",
   :block/created-at 1668651228002,
-  :block/updated-at 1668660756265}
+  :block/updated-at 1668667346265}
  {:block/name "dbnet 사용시 문제",
   :block/created-at 1668490081543,
   :block/updated-at 1668490123906}
@@ -149,6 +149,9 @@
  {:block/name "진우영 수석님",
   :block/created-at 1666318202204,
   :block/updated-at 1666318202204}
+ {:block/name "코드분석",
+  :block/created-at 1668667346264,
+  :block/updated-at 1668667676995}
  {:block/name "현종열 수석님",
   :block/created-at 1666318190003,
   :block/updated-at 1666318190003}
