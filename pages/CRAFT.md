@@ -5,6 +5,8 @@
 	- pretrained model 사용 시 불필요한 과정
 - 2) SynthText+IC15 또는 custom dataset으로 학습 수행
 -
+- ## 문제사항
+- [[공백이 섞인 text 박스]]
 -
 - ## 수정사항
 -
