@@ -21,7 +21,7 @@
   :block/updated-at 1665983092128}
  {:block/name "craft",
   :block/created-at 1668651228002,
-  :block/updated-at 1668651536897}
+  :block/updated-at 1668659904059}
  {:block/name "dbnet 사용시 문제",
   :block/created-at 1668490081543,
   :block/updated-at 1668490123906}
@@ -107,6 +107,9 @@
  {:block/name "waiting",
   :block/created-at 1665983092128,
   :block/updated-at 1665983092128}
+ {:block/name "공백이 섞인 text 박스",
+  :block/created-at 1668659904058,
+  :block/updated-at 1668660029435}
  {:block/name "김윤영 수석님",
   :block/created-at 1666318198508,
   :block/updated-at 1666318198508}
