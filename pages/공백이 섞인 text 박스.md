@@ -1,6 +1,6 @@
 - 문제해결
 	- 날짜: 2022/11/17
-	- 태그: [[CRAFT]]
+	- 태그: [[CRAFT]], [[EasyOCR]]
 	- 상태: 상황인지
 	- ## 발생상황
 		- make_charbox.py의 split_word_equal_gap(self, word_img_w, word_img_h, word)에서 발생하는 문제

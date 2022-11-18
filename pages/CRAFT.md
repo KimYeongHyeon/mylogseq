@@ -1,5 +1,5 @@
 - 주소: https://github.com/JaidedAI/EasyOCR/tree/master/trainer/craft
--
+- 링크: [[EasyOCR]]
 - ## 분석
 	- ### 학습과정
 		- 1) SynthText 데이터셋으로 sractch 학습 수행
