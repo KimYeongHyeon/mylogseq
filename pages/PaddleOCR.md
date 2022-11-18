@@ -4,4 +4,6 @@
 - pip install paddle paddleocr
 -
 -
--
+- ## 문서
+- (Text Detection)
+- https://github.com/PaddlePaddle/PaddleOCR/blob/release/2.6/doc/doc_en/detection_en.md
