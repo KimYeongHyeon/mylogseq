@@ -6,3 +6,4 @@
 - ## 파악한 점
 - [train.py, line 396:](https://github.com/JaidedAI/EasyOCR/blob/054ec4f90127ab9e45f101baf8caa519d5a6e035/trainer/craft/train.py#L396)
 	- 학습된 모델을 이용해 supervision model을 업데이트 하는 과정
+-
