@@ -67,6 +67,9 @@
  {:block/name "nov 22nd, 2022",
   :block/created-at 1669093106084,
   :block/updated-at 1669093106084}
+ {:block/name "nov 23rd, 2022",
+  :block/created-at 1669163012400,
+  :block/updated-at 1669163012400}
  {:block/name "nov 8th, 2022",
   :block/created-at 1667870554035,
   :block/updated-at 1667870554035}
@@ -160,7 +163,7 @@
   :block/updated-at 1666318202204}
  {:block/name "코드분석",
   :block/created-at 1668667346264,
-  :block/updated-at 1669094793412}
+  :block/updated-at 1669163326917}
  {:block/name "현종열 수석님",
   :block/created-at 1666318190003,
   :block/updated-at 1666318190003}
