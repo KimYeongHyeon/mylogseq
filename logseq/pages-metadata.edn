@@ -21,7 +21,7 @@
   :block/updated-at 1665983092128}
  {:block/name "craft",
   :block/created-at 1668651228002,
-  :block/updated-at 1668753192191}
+  :block/updated-at 1669340681974}
  {:block/name "dbnet 사용시 문제",
   :block/created-at 1668490081543,
   :block/updated-at 1668490123906}
@@ -37,18 +37,27 @@
  {:block/name "favorites",
   :block/created-at 1665983092128,
   :block/updated-at 1665983092128}
+ {:block/name "hard nagative mining",
+  :block/created-at 1669340681973,
+  :block/updated-at 1669340828443}
  {:block/name "hashing",
   :block/created-at 1667803700531,
   :block/updated-at 1668133506771}
  {:block/name "in-progress",
   :block/created-at 1665983092128,
   :block/updated-at 1665983092128}
+ {:block/name "labelme",
+  :block/created-at 1669340522708,
+  :block/updated-at 1669340522708}
  {:block/name "later",
   :block/created-at 1665983092128,
   :block/updated-at 1665983092128}
  {:block/name "methods for finding near-duplicates",
   :block/created-at 1667882206924,
   :block/updated-at 1667882217829}
+ {:block/name "mmocr",
+  :block/created-at 1669340271441,
+  :block/updated-at 1669340281544}
  {:block/name "nov 10th, 2022",
   :block/created-at 1668036644290,
   :block/updated-at 1668036644290}
@@ -78,7 +87,7 @@
   :block/updated-at 1665983092128}
  {:block/name "ocr",
   :block/created-at 1668489767333,
-  :block/updated-at 1668651228003}
+  :block/updated-at 1669340600042}
  {:block/name "oct 17th, 2022",
   :block/created-at 1665991347316,
   :block/updated-at 1665991347316}
@@ -98,6 +107,12 @@
   "post-ocr parsing: building simple and robust parser via bio tagging",
   :block/created-at 1668489768102,
   :block/updated-at 1668489768102}
+ {:block/name "ppocrlabel",
+  :block/created-at 1669340600042,
+  :block/updated-at 1669340605471}
+ {:block/name "synthdog",
+  :block/created-at 1669340324721,
+  :block/updated-at 1669340460012}
  {:block/name "template",
   :block/created-at 1668489769016,
   :block/updated-at 1668490017368}
