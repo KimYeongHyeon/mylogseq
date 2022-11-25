@@ -3,9 +3,10 @@
 - ![image.png](../assets/image_1669357823189_0.png)
 - ## 설치방법
 - 1. pip 이용하기
-	- (1) pip install paddle paddleocr
+	- (1) ```pip install paddle paddleocr```
 - 2. git 이용하기
--
+	- (1) ``git clone https://github.com/PaddlePaddle/PaddleOCR``
+	-
 -
 - ## 문서
 - [Text Detection Training](https://github.com/PaddlePaddle/PaddleOCR/blob/release/2.6/doc/doc_en/detection_en.md)
