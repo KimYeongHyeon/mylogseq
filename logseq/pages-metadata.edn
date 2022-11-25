@@ -125,6 +125,9 @@
  {:block/name "synthtext3d",
   :block/created-at 1669354243353,
   :block/updated-at 1669354244968}
+ {:block/name "synthtiger",
+  :block/created-at 1669356020650,
+  :block/updated-at 1669356022171}
  {:block/name "template",
   :block/created-at 1668489769016,
   :block/updated-at 1668490017368}
@@ -143,6 +146,9 @@
  {:block/name "todo",
   :block/created-at 1665983092128,
   :block/updated-at 1665983092128}
+ {:block/name "unrealtext",
+  :block/created-at 1669355998420,
+  :block/updated-at 1669356002171}
  {:block/name "value-chain",
   :block/created-at 1665982541525,
   :block/updated-at 1665985347559}
@@ -160,7 +166,7 @@
   :block/updated-at 1666318198508}
  {:block/name "데이터 합성",
   :block/created-at 1669354164195,
-  :block/updated-at 1669354243353}
+  :block/updated-at 1669356020650}
  {:block/name "데이터전략파트",
   :block/created-at 1665982532740,
   :block/updated-at 1665990735969}
