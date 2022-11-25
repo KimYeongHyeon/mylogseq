@@ -1,5 +1,6 @@
 - 링크: https://github.com/PaddlePaddle/PaddleOCR
 -
+- ![image.png](../assets/image_1669357823189_0.png)
 - ## 설치방법
 - pip install paddle paddleocr
 -
