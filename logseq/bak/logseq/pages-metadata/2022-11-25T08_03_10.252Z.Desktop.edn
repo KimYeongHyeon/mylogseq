@@ -5,8 +5,8 @@
   :block/created-at 1665983092128,
   :block/updated-at 1665983092128}
  {:block/name "backbone 관련 문서",
-  :block/created-at 1669362791996,
-  :block/updated-at 1669362791996}
+  :block/created-at 1669357253186,
+  :block/updated-at 1669357295872}
  {:block/name "c",
   :block/created-at 1665983092128,
   :block/updated-at 1665983092128}
@@ -26,8 +26,8 @@
   :block/created-at 1668651228002,
   :block/updated-at 1669342861034}
  {:block/name "dbnet",
-  :block/created-at 1669362792690,
-  :block/updated-at 1669362792690}
+  :block/created-at 1669342830286,
+  :block/updated-at 1669348910755}
  {:block/name "dbnet 사용시 문제",
   :block/created-at 1668490081543,
   :block/updated-at 1668490123906}
@@ -44,8 +44,8 @@
   :block/created-at 1665983092128,
   :block/updated-at 1665983092128}
  {:block/name "hard nagative mining",
-  :block/created-at 1669362793285,
-  :block/updated-at 1669362793285}
+  :block/created-at 1669340681973,
+  :block/updated-at 1669340828443}
  {:block/name "hashing",
   :block/created-at 1667803700531,
   :block/updated-at 1668133506771}
@@ -53,20 +53,20 @@
   :block/created-at 1665983092128,
   :block/updated-at 1665983092128}
  {:block/name "labelme",
-  :block/created-at 1669362798385,
-  :block/updated-at 1669362798385}
+  :block/created-at 1669340522708,
+  :block/updated-at 1669340522708}
  {:block/name "later",
   :block/created-at 1665983092128,
   :block/updated-at 1665983092128}
  {:block/name "layout analysis",
-  :block/created-at 1669362793848,
-  :block/updated-at 1669362793848}
+  :block/created-at 1669358003355,
+  :block/updated-at 1669359402891}
  {:block/name "methods for finding near-duplicates",
   :block/created-at 1667882206924,
   :block/updated-at 1667882217829}
  {:block/name "mmocr",
-  :block/created-at 1669362794012,
-  :block/updated-at 1669362794012}
+  :block/created-at 1669340271441,
+  :block/updated-at 1669340281544}
  {:block/name "nov 10th, 2022",
   :block/created-at 1668036644290,
   :block/updated-at 1668036644290}
@@ -117,23 +117,23 @@
   :block/created-at 1668489768102,
   :block/updated-at 1668489768102}
  {:block/name "ppocrlabel",
-  :block/created-at 1669362794382,
-  :block/updated-at 1669362794382}
+  :block/created-at 1669340600042,
+  :block/updated-at 1669340605471}
  {:block/name "styletext",
-  :block/created-at 1669362794912,
-  :block/updated-at 1669362794912}
+  :block/created-at 1669353965268,
+  :block/updated-at 1669353969277}
  {:block/name "synthdog",
-  :block/created-at 1669362795329,
-  :block/updated-at 1669362795329}
+  :block/created-at 1669340324721,
+  :block/updated-at 1669340460012}
  {:block/name "synthtext",
-  :block/created-at 1669362795380,
-  :block/updated-at 1669362795380}
+  :block/created-at 1669342608290,
+  :block/updated-at 1669342610051}
  {:block/name "synthtext3d",
-  :block/created-at 1669362795657,
-  :block/updated-at 1669362795657}
+  :block/created-at 1669354243353,
+  :block/updated-at 1669354244968}
  {:block/name "synthtiger",
-  :block/created-at 1669362795697,
-  :block/updated-at 1669362795697}
+  :block/created-at 1669356020650,
+  :block/updated-at 1669356022171}
  {:block/name "template",
   :block/created-at 1668489769016,
   :block/updated-at 1668490017368}
@@ -144,17 +144,17 @@
   :block/created-at 1668489767301,
   :block/updated-at 1668489767301}
  {:block/name "textrecognitiondatagenerator",
-  :block/created-at 1669362795744,
-  :block/updated-at 1669362795744}
+  :block/created-at 1669342648697,
+  :block/updated-at 1669342651565}
  {:block/name "textrenderer",
-  :block/created-at 1669362795965,
-  :block/updated-at 1669362795965}
+  :block/created-at 1669354121926,
+  :block/updated-at 1669354189992}
  {:block/name "todo",
   :block/created-at 1665983092128,
   :block/updated-at 1665983092128}
  {:block/name "unrealtext",
-  :block/created-at 1669362796007,
-  :block/updated-at 1669362796007}
+  :block/created-at 1669355998420,
+  :block/updated-at 1669356002171}
  {:block/name "value-chain",
   :block/created-at 1665982541525,
   :block/updated-at 1665985347559}
@@ -171,8 +171,8 @@
   :block/created-at 1666318198508,
   :block/updated-at 1666318198508}
  {:block/name "데이터 합성",
-  :block/created-at 1669362796895,
-  :block/updated-at 1669362796895}
+  :block/created-at 1669354164195,
+  :block/updated-at 1669356020650}
  {:block/name "데이터전략파트",
   :block/created-at 1665982532740,
   :block/updated-at 1665990735969}
