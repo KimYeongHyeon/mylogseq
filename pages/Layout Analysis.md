@@ -8,4 +8,6 @@
 		- area, iscord, image_id, bbox, category, id
 	- 예시
 	- ![image.png](../assets/image_1669358390230_0.png)
--
+- ## 참고문서
+	- https://github.com/PaddlePaddle/PaddleOCR/blob/release/2.6/ppstructure/kie/how_to_do_kie_en.md#12-Mainstream-Deep-learning-Solutions
+	- https://github.com/PaddlePaddle/PaddleOCR/tree/release/2.6/ppstructure/kie
