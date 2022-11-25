@@ -12,7 +12,7 @@
 -
 - ## Detection
 - [[CRAFT]]
--
+- [[DBNet]]
 - ## Recognition
 -
 - ## Layout Analysis

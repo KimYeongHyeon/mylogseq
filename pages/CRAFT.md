@@ -11,3 +11,4 @@
 - [[Hard Nagative Mining]]
 - [[공백이 섞인 text 박스]]
 -
+- [CRAFT_with_code.pptx](../assets/CRAFT_with_code_1669342860507_0.pptx)
