@@ -1,10 +1,13 @@
--
--
 - ## 라이브러리
 - [[EasyOCR]]
 - [[PaddleOCR]]
--
+- ![image.png](../assets/image_1669340230428_0.png)
 - # 알고리즘
+- ## 과정
+- [[Text Recognition]]
+- [[Text Detection]]
+- [[Post Processing]]
+-
 - ## Detection
 - [[CRAFT]]
 -
@@ -24,11 +27,6 @@
 -
 -
 -
--
-- ## 과정
-- [[Text Recognition]]
-- [[Text Detection]]
-- [[Post Processing]]
 -
 - ## 학습팁
 - [Paddle_자체데이터셋으로학습시킬때](https://github.com/PaddlePaddle/PaddleOCR/blob/release/2.6/doc/doc_en/training_en.md#33-build-your-own-dataset)
