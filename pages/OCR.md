@@ -23,7 +23,8 @@
 - ## 라벨링 가이드
 	-
 - ## 라벨링 툴
-	-
+	- 출처: https://github.com/heartexlabs/awesome-data-labeling
+	- [[labelme]]
 - ## 데이터 합성
 	- [[SynthDoG]]
 -
