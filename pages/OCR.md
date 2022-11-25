@@ -4,8 +4,23 @@
 - [[EasyOCR]]
 - [[PaddleOCR]]
 -
-- #### Detection
+- # 알고리즘
+- ## Detection
 - [[CRAFT]]
+-
+- ## Recognition
+-
+- ## Layout Analysis
+-
+- ## Key Information Extraction
+-
+- # 데이터
+- ## 라벨링 가이드
+-
+- ## 라벨링 툴
+-
+- ## 데이터 합성
+-
 -
 -
 -
