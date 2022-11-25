@@ -1,4 +1,3 @@
 - https://github.com/PaddlePaddle/PaddleOCR/blob/release/2.6/ppstructure/layout/README.md
 -
-- 정리
-	-
+- ## Annotation
