@@ -8,6 +8,6 @@
 	- [[코드분석]]
 	-
 - ## 문제해결
--
+- [[Hard Nagative Mining]]
 - [[공백이 섞인 text 박스]]
 -
