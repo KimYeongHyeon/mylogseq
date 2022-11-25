@@ -10,4 +10,5 @@
 	- ## 해결방안
 		- 모든 텍스트에 라벨링 수행
 	- ## 참고
-	-
+		- https://github.com/JaidedAI/EasyOCR/blob/054ec4f90127ab9e45f101baf8caa519d5a6e035/trainer/craft/loss/mseloss.py#L117
+		-
