@@ -4,4 +4,5 @@
 - ## Annotation
 	- 다음과 같은 정보를 포함해야 함 (paddle기준)
 	- images: 이미지 정보; 파일명, w, h, id
-		- annotations:
+	- annotations:
+		- area, iscord, image_id, bbox, category, id
