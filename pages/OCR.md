@@ -8,7 +8,6 @@
 - ## 과정
 - [[Text Recognition]]
 - [[Text Detection]]
-- []
 - [[Post Processing]]
 -
 - ## Detection
