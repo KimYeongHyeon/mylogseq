@@ -90,7 +90,7 @@
   :block/updated-at 1665983092128}
  {:block/name "ocr",
   :block/created-at 1668489767333,
-  :block/updated-at 1669353921934}
+  :block/updated-at 1669354164196}
  {:block/name "oct 17th, 2022",
   :block/created-at 1665991347316,
   :block/updated-at 1665991347316}
@@ -113,12 +113,18 @@
  {:block/name "ppocrlabel",
   :block/created-at 1669340600042,
   :block/updated-at 1669340605471}
+ {:block/name "styletext",
+  :block/created-at 1669353965268,
+  :block/updated-at 1669353969277}
  {:block/name "synthdog",
   :block/created-at 1669340324721,
   :block/updated-at 1669340460012}
  {:block/name "synthtext",
   :block/created-at 1669342608290,
   :block/updated-at 1669342610051}
+ {:block/name "synthtext3d",
+  :block/created-at 1669354243353,
+  :block/updated-at 1669354244968}
  {:block/name "template",
   :block/created-at 1668489769016,
   :block/updated-at 1668490017368}
@@ -131,6 +137,9 @@
  {:block/name "textrecognitiondatagenerator",
   :block/created-at 1669342648697,
   :block/updated-at 1669342651565}
+ {:block/name "textrenderer",
+  :block/created-at 1669354121926,
+  :block/updated-at 1669354189992}
  {:block/name "todo",
   :block/created-at 1665983092128,
   :block/updated-at 1665983092128}
@@ -149,6 +158,9 @@
  {:block/name "김윤영 수석님",
   :block/created-at 1666318198508,
   :block/updated-at 1666318198508}
+ {:block/name "데이터 합성",
+  :block/created-at 1669354164195,
+  :block/updated-at 1669354243353}
  {:block/name "데이터전략파트",
   :block/created-at 1665982532740,
   :block/updated-at 1665990735969}
