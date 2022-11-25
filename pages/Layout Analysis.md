@@ -6,3 +6,5 @@
 	- images: 이미지 정보; 파일명, w, h, id
 	- annotations:
 		- area, iscord, image_id, bbox, category, id
+	- 예시
+	- ![image.png](../assets/image_1669358390230_0.png)
