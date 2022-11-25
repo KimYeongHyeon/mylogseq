@@ -8,3 +8,4 @@
 		- area, iscord, image_id, bbox, category, id
 	- 예시
 	- ![image.png](../assets/image_1669358390230_0.png)
+-
