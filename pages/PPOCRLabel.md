@@ -1,1 +1,2 @@
+- 주소: https://github.com/PaddlePaddle/PaddleOCR/tree/release/2.6/PPOCRLabel
 -
