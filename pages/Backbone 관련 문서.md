@@ -1,5 +1,5 @@
--
-- https://github.com/PaddlePaddle/PaddleOCR/blob/release/2.6/doc/doc_en/recognition_en.md#23-training-with-new-backbone
+- 새로운 backbone으로 학습시키기
+	- https://github.com/PaddlePaddle/PaddleOCR/blob/release/2.6/doc/doc_en/recognition_en.md#23-training-with-new-backbone
 - 코드 레벨
 	- https://github.com/PaddlePaddle/PaddleOCR/blob/release/2.6/ppocr/modeling/backbones/__init__.py
 -
