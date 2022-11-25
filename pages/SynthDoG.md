@@ -1,0 +1,3 @@
+- 주소: https://github.com/clovaai/donut/tree/master/synthdog
+- 개발: Clova
+- 목적: synthetic document generator for visual document understanding
