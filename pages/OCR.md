@@ -30,12 +30,7 @@
 	- 출처: https://github.com/heartexlabs/awesome-data-labeling
 	- [[labelme]]
 	- [[PPOCRLabel]]
-- ## 데이터 합성
-	-
-	- [[SynthText]]: Detection but STR
-	- [[TextRecognitionDataGenerator]]: Recognition
-	- [[SynthDoG]]: VQA
-	- [[StyleText]]
+- ## [[데이터 합성]]
 -
 -
 -
