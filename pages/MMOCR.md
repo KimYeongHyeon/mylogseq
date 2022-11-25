@@ -1,0 +1,1 @@
+- 링크: https://github.com/open-mmlab/mmocr

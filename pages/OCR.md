@@ -1,7 +1,9 @@
 - ## 라이브러리
 - [[EasyOCR]]
 - [[PaddleOCR]]
+- [[MMOCR]]
 - ![image.png](../assets/image_1669340230428_0.png)
+	- https://towardsdatascience.com/5-open-source-tools-you-can-use-to-train-and-deploy-an-ocr-project-8f204dec862b
 - # 알고리즘
 - ## 과정
 - [[Text Recognition]]
@@ -19,11 +21,11 @@
 -
 - # 데이터
 - ## 라벨링 가이드
--
+	-
 - ## 라벨링 툴
--
+	-
 - ## 데이터 합성
--
+	-
 -
 -
 -
