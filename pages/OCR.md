@@ -25,6 +25,7 @@
 - ## 라벨링 툴
 	- 출처: https://github.com/heartexlabs/awesome-data-labeling
 	- [[labelme]]
+	- [[PPOCRLabel]]
 - ## 데이터 합성
 	- [[SynthDoG]]
 -
