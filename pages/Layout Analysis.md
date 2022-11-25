@@ -1,3 +1,6 @@
+- 태그 [[OCR]]
 - https://github.com/PaddlePaddle/PaddleOCR/blob/release/2.6/ppstructure/layout/README.md
 -
 - ## Annotation
+	- 다음과 같은 정보를 포함해야 함 (paddle기준)
+	- images: 이미지 정보;
