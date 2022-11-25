@@ -1,3 +1,7 @@
+- 우선순위
+- 1. Recogntition - 가시적; 성능을 올릴 방법이 많아 보임
+  2. 
+  3.
 - ## 라이브러리
 - [[EasyOCR]]
 - [[PaddleOCR]]
