@@ -31,6 +31,7 @@
 	- [[labelme]]
 	- [[PPOCRLabel]]
 - ## 데이터 합성
+	-
 	- [[SynthText]]: Detection but STR
 	- [[TextRecognitionDataGenerator]]: Recognition
 	- [[SynthDoG]]: VQA
