@@ -1,3 +1,4 @@
 - 주소: https://github.com/clovaai/donut/tree/master/synthdog
+	- https://huggingface.co/datasets/naver-clova-ix/synthdog-ko
 - 개발: Clova
 - 목적: synthetic document generator for visual document understanding
