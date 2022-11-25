@@ -6,4 +6,5 @@
 -
 - ## 문서
 - [Text Detection Training](https://github.com/PaddlePaddle/PaddleOCR/blob/release/2.6/doc/doc_en/detection_en.md)
+- [[Backbone 관련 문서]]
 -
