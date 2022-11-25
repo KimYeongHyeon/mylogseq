@@ -34,7 +34,7 @@
 	- [[SynthText]]: Detection but STR
 	- [[TextRecognitionDataGenerator]]: Recognition
 	- [[SynthDoG]]: VQA
--
+	- [[StyleText]]
 -
 -
 -
