@@ -2,7 +2,9 @@
 -
 - ![image.png](../assets/image_1669357823189_0.png)
 - ## 설치방법
-- pip install paddle paddleocr
+- 1. pip 이용하기
+	- (1) pip install paddle paddleocr
+- 2. git 이용하기
 -
 -
 - ## 문서
