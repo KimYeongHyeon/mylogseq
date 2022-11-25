@@ -21,7 +21,10 @@
   :block/updated-at 1665983092128}
  {:block/name "craft",
   :block/created-at 1668651228002,
-  :block/updated-at 1669340681974}
+  :block/updated-at 1669342861034}
+ {:block/name "dbnet",
+  :block/created-at 1669342830286,
+  :block/updated-at 1669342830286}
  {:block/name "dbnet 사용시 문제",
   :block/created-at 1668490081543,
   :block/updated-at 1668490123906}
@@ -87,7 +90,7 @@
   :block/updated-at 1665983092128}
  {:block/name "ocr",
   :block/created-at 1668489767333,
-  :block/updated-at 1669342527730}
+  :block/updated-at 1669342830286}
  {:block/name "oct 17th, 2022",
   :block/created-at 1665991347316,
   :block/updated-at 1665991347316}
@@ -113,6 +116,9 @@
  {:block/name "synthdog",
   :block/created-at 1669340324721,
   :block/updated-at 1669340460012}
+ {:block/name "synthtext",
+  :block/created-at 1669342608290,
+  :block/updated-at 1669342610051}
  {:block/name "template",
   :block/created-at 1668489769016,
   :block/updated-at 1668490017368}
@@ -122,6 +128,9 @@
  {:block/name "text recognition",
   :block/created-at 1668489767301,
   :block/updated-at 1668489767301}
+ {:block/name "textrecognitiondatagenerator",
+  :block/created-at 1669342648697,
+  :block/updated-at 1669342651565}
  {:block/name "todo",
   :block/created-at 1665983092128,
   :block/updated-at 1665983092128}
