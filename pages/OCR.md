@@ -27,7 +27,7 @@
 	- [[labelme]]
 	- [[PPOCRLabel]]
 - ## 데이터 합성
-	- SynText
+	- SynthText
 	-
 	- [[SynthDoG]]
 -
