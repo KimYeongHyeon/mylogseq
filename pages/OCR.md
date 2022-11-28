@@ -36,3 +36,6 @@
 - ## 학습팁
 - [Paddle_자체데이터셋으로학습시킬때](https://github.com/PaddlePaddle/PaddleOCR/blob/release/2.6/doc/doc_en/training_en.md#33-build-your-own-dataset)
 -
+-
+- [[OCR 논문]]
+-
