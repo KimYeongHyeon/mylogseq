@@ -1,2 +1,6 @@
-- [DBNet.pptx](../assets/DBNet_1669348910224_0.pptx)
+-
+- ## 발표자료
+	- [DBNet.pptx](../assets/DBNet_1669348910224_0.pptx)
+-
+- ## 참고
 -
