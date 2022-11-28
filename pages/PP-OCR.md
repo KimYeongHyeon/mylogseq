@@ -67,6 +67,9 @@
 				- BDA(Base Data Augmentation) - Rotation, Perspective distortion, Motion blur, Gaussian noise 적용
 				- AutoAugment, RandAugment, CutOut, RandErasing, HideAndSeek, GridMask, Mixup, Cutmix 등을 추가해 학습해봤지만, RandAugment가 가장 좋은 성능을 보임
 				- 최종적으로 BDA와 RandAugment를 학습 Augmentation으로 추가
+			- #### Input Resolution
+				- 일반적으로 32x100으로 세팅하나, 48x192로 세팅
+				-
 	- ## Experiments
 	-
 	- ## Results
