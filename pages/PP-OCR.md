@@ -37,8 +37,12 @@
 				- text detection의 head는 FPN과 유사한데, 작은 텍스트 영역 검출에 대한 성능을 향상 시키기 위해 다양한 크기의 feature map을 fuse함
 				- 이때, 다른 해상도의 feature map을 merge하기 위해 편의상 1x1 conv.를 사용해 feature map을 같은 채널 수(inner_channels for short)로 맞춤
 				- probability map과 threshold map이 합쳐진 feature map으로 부터 생성되는데, inner_channels과 연관되어있음
-				- 즉, inner channel은 모델 사이즈에 지대한 영향을 줆.
+				- 즉, inner_channels은 모델 사이즈에 지대한 영향을 줆.
 				- 256 -> 96으로 inner channels을 줄임으로써 모델의 크기는 7M에서 4.1M으로 줄어듦
+			- #### Remove SE
+				- ![image.png](../assets/image_1669610136962_0.png)
+				- SE는 squeeze-and-excitation을 나타냄.
+				-
 	- ## Experiments
 	-
 	- ## Results
