@@ -56,7 +56,8 @@
 				- 이는 image classification에서 성능 향상을 보였으며, text detection에서도 효과가 있음을 보임
 			- #### FPGM Pruner
 				- 기존 모델에서 중요하지 않은 sub-network를 찾는 FPGM을 적용
-				- FPGM은 geometric median을
+				- FPGM은 geometric median을 조건으로 사용해 convolution layer의 각 필터가 Eucliaiean space에 있는 점이라고 간주됨
+				-
 				-
 	- ## Experiments
 	-
