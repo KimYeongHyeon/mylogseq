@@ -73,8 +73,9 @@
 			- #### PACT Quantization (PArameterized Clipping acTivation)
 				- 미리 활성함수에서 outlier를 제거하는 online quantization을 적용
 				- outlier를 제거한 후 model은 더 적정한 quantitative scale을 학습할 수 있음
+				- 기존 PACT 함수
 				- ![image.png](../assets/image_1669679263810_0.png)
-				-
+				- MobileNetV3에는 activation은 ReLU뿐만 아니라 hard swish도 포함되어 있어
 				-
 				-
 	- ## Experiments
