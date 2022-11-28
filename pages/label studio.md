@@ -10,7 +10,7 @@
 -
 - ## 사용 예시
 	- https://github.com/heartexlabs/label-studio#what-is-label-studio
-	-
+	- ![image.png](../assets/image_1669622006030_0.png)
 -
 -
 - ## OCR용으로 사용시 참고
