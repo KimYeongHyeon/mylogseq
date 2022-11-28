@@ -26,8 +26,10 @@
 	- ## Related Works
 		-
 	- ## Methodologies
-		- ##### Text Detection
-			- # light backbone
+		- ### Text Detection
+			- #### light backbone
+				- backbone의 크기는 모델의 크기에 많은 영향을 끼침
+				-
 			-
 	- ## Experiments
 	-
