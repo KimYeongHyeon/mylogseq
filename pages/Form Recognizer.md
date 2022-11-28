@@ -5,5 +5,5 @@
 -
 - ## 제공 기능
 	- ![image.png](../assets/image_1669616179449_0.png)
-	- [링크]https://learn.microsoft.com/ko-kr/azure/applied-ai-services/form-recognizer/concept-model-overview?view=form-recog-2.1.0
+	- [링크](https://learn.microsoft.com/ko-kr/azure/applied-ai-services/form-recognizer/concept-model-overview?view=form-recog-2.1.0)
 -
