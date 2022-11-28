@@ -1,1 +1,2 @@
-- https://learn.microsoft.com/en-us/azure/applied-ai-services/form-recognizer/overview?view=form-recog-2.1.0
+- 소개문서: https://learn.microsoft.com/en-us/azure/applied-ai-services/form-recognizer/overview?view=form-recog-2.1.0
+- 가이드문서: https://learn.microsoft.com/ko-kr/azure/applied-ai-services/form-recognizer/concept-layout?view=form-recog-3.0.0
