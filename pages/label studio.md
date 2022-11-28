@@ -1,1 +1,6 @@
 - https://github.com/heartexlabs/label-studio
+-
+-
+- ## [[OCR용으로 사용시 참고]]
+	- https://github.com/heartexlabs/label-studio/issues/142
+-
