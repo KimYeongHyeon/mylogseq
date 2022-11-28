@@ -75,8 +75,9 @@
 				- outlier를 제거한 후 model은 더 적정한 quantitative scale을 학습할 수 있음
 				- 기존 PACT 함수
 				- ![image.png](../assets/image_1669679263810_0.png)
-				- MobileNetV3에는 activation은 ReLU뿐만 아니라 hard swish도 포함되어 있어
-				-
+				- MobileNetV3에는 activation은 ReLU뿐만 아니라 hard swish도 포함되어 있어 일반적인 PACT 사용 시 더 높은 quantization loss을 만들 수 있기에 다음과 같이 수정본을 씀
+				- ![image.png](../assets/image_1669679362392_0.png)
+				- 추가로, model robustness를
 				-
 	- ## Experiments
 	-
