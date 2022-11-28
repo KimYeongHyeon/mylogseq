@@ -1,6 +1,9 @@
 - https://github.com/heartexlabs/label-studio
 -
+- ## 제공 기능
+	-
 -
-- ## [[OCR용으로 사용시 참고]]
+-
+- ## OCR용으로 사용시 참고
 	- https://github.com/heartexlabs/label-studio/issues/142
 -
