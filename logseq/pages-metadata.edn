@@ -57,7 +57,7 @@
   :block/updated-at 1665983092128}
  {:block/name "label studio",
   :block/created-at 1669612031565,
-  :block/updated-at 1669618414014}
+  :block/updated-at 1669621054512}
  {:block/name "labelme",
   :block/created-at 1669362798385,
   :block/updated-at 1669362798385}
