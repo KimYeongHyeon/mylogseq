@@ -14,7 +14,7 @@
 			- effectiveness와 efficienecy를 향상 시키기 위해 6개의 전략을 제안: light backbone, light head, remove SE module, cosine learning rate decay, learning rate warm-up, FPGM pruner
 		- #### Detection Boxes Rectify
 			- 검출된 text 박스를 똑바로 맞추기 위해 Classification 적용
-				- 박스를 horizontal하게 만듦 => calassification되어있는 경우 flippling
+				- 박스를 horizontal하게 만듦 => 텍스트의 방향이 거꾸로 되어있는 경우 flippling
 			- 전략: light backbone, data augmentation, input resolution, PACT quantization
 		- #### Text Recognition
 		-
