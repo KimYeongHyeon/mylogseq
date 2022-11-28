@@ -55,10 +55,12 @@
 				- 그러다가 학습이 안정되면 초기 learning rate를 사용함
 				- 이는 image classification에서 성능 향상을 보였으며, text detection에서도 효과가 있음을 보임
 			- #### FPGM Pruner
-				- ![image.png](../assets/image_1669611572562_0.png)
+				- ![image.png](../assets/image_1669611572562_0.png){:height 515, :width 649}
 				- 기존 모델에서 중요하지 않은 sub-network를 찾는 FPGM을 적용
 				- FPGM은 geometric median을 조건으로 사용해 convolution layer의 각 필터가 Eucliaiean space에 있는 점이라고 간주함. 그 이후 포인트들의 geometric median을 계산하고 비슷한 값을 가진 filter를 제거함
 				- 각 layer의 압축 비율은 pruning의 중요한 요소이다. 모든 layer를 균등하게 (uniformly) pruning하는 것은 상당한 성능 저하를 이끌 수 있다.
+		- ### Text Direction Rectification
+			-
 	- ## Experiments
 	-
 	- ## Results
