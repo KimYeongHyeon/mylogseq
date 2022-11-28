@@ -70,7 +70,7 @@
 			- #### Input Resolution
 				- 일반적으로 32x100으로 세팅하나, 성능 향상을 위해 48x192로 세팅
 				- light backbone을 사용하기에 계산에 무리 없음
-			- #### PACT Quantization
+			- #### PACT Quantization ()
 				-
 				-
 	- ## Experiments
