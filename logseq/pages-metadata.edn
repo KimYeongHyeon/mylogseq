@@ -21,13 +21,13 @@
   :block/updated-at 1665983092128}
  {:block/name "contents",
   :block/created-at 1665983092128,
-  :block/updated-at 1665983092128}
+  :block/updated-at 1669609782209}
  {:block/name "craft",
   :block/created-at 1668651228002,
-  :block/updated-at 1669342861034}
+  :block/updated-at 1669608377981}
  {:block/name "dbnet",
   :block/created-at 1669362792690,
-  :block/updated-at 1669362792690}
+  :block/updated-at 1669608499955}
  {:block/name "dbnet 사용시 문제",
   :block/created-at 1668490081543,
   :block/updated-at 1668490123906}
@@ -102,7 +102,10 @@
   :block/updated-at 1665983092128}
  {:block/name "ocr",
   :block/created-at 1668489767333,
-  :block/updated-at 1669601478459}
+  :block/updated-at 1669608329211}
+ {:block/name "ocr 논문",
+  :block/created-at 1669608329210,
+  :block/updated-at 1669608365344}
  {:block/name "oct 17th, 2022",
   :block/created-at 1665991347316,
   :block/updated-at 1665991347316}
@@ -122,6 +125,9 @@
   "post-ocr parsing: building simple and robust parser via bio tagging",
   :block/created-at 1668489768102,
   :block/updated-at 1668489768102}
+ {:block/name "pp-ocr",
+  :block/created-at 1669608365344,
+  :block/updated-at 1669609672945}
  {:block/name "ppocrlabel",
   :block/created-at 1669362794382,
   :block/updated-at 1669362794382}
