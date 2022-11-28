@@ -48,7 +48,7 @@
 				- 그로 인해 성능 향상은 제한되며, time-cost 또한 증가하게 됨
 				- backbone에서 SE block을 제거할 때, 모델 크기는 4.1M에서 2.5M으로 줄어들고, 성능에는 영향이 없었음
 			- #### Cosine Learning Rate Decay
-				-
+				- 학습 초기에는 높은 학습률을 가져 빠르게
 	- ## Experiments
 	-
 	- ## Results
