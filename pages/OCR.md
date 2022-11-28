@@ -40,3 +40,5 @@
 -
 - [[OCR 논문]]
 -
+- ## 기타 깃허브
+	- https://github.com/YongWookHa/Open-OCR-Engine
