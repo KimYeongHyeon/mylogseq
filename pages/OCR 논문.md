@@ -1,6 +1,6 @@
 - ## Detection
 	- [[CRAFT]]
-		- [[DBNet]]
+	- [[DBNet]]
 -
 - ## Lightweight OCR System
-	-
+	- [[PP-OCR]]

@@ -8,7 +8,8 @@
 	- [[코드분석]]
 	-
 - ## 문제해결
-- [[Hard Nagative Mining]]
-- [[공백이 섞인 text 박스]]
+	- [[Hard Nagative Mining]]
+	- [[공백이 섞인 text 박스]]
 -
-- [CRAFT_with_code.pptx](../assets/CRAFT_with_code_1669342860507_0.pptx)
+- ## 발표자료
+	- [CRAFT_with_code.pptx](../assets/CRAFT_with_code_1669342860507_0.pptx)
