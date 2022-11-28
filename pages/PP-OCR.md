@@ -11,7 +11,9 @@
 		- ![image.png](../assets/image_1669608737194_0.png)
 		- #### Text Detection
 			- DBNet을 이용
-			- effectiveness와 efficienecy를 light backbone, light head, remove SE module, cosine learning rate decay, learning rate warm-up, FPGM pruner
+			- effectiveness와 efficienecy를 향상 시키기 위해 6개의 전략을 제안: light backbone, light head, remove SE module, cosine learning rate decay, learning rate warm-up, FPGM pruner
+		- #### Detection Boxes Rectify
+			-
 		-
 	- ## Related Works
 		-
