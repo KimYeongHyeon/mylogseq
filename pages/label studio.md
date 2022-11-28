@@ -1,6 +1,11 @@
 - https://github.com/heartexlabs/label-studio
 -
-- ## 제공 기능
+- ## [제공 기능](https://github.com/heartexlabs/label-studio#what-you-get-from-label-studio)
+	- Multi-user labeling
+	- Multiple projects
+	- Streamlined design
+	- Configurable label formats
+	- Support for multiple data types
 	-
 -
 -
