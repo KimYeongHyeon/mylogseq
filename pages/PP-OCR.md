@@ -6,10 +6,11 @@
 	-
 	- ## Introduction
 		- Practical Lightweight OCR system 개발을 위한 방법 제안
-		-
+		- 1) 모델 성능 올리기
+		- 2) 모델 경량화
 		-
 	- ## Related Works
-	-
+		-
 	- ## Methodologies
 	-
 	- ## Experiments
