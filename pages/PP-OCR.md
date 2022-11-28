@@ -13,7 +13,8 @@
 			- DBNet을 이용
 			- effectiveness와 efficienecy를 향상 시키기 위해 6개의 전략을 제안: light backbone, light head, remove SE module, cosine learning rate decay, learning rate warm-up, FPGM pruner
 		- #### Detection Boxes Rectify
-			-
+			- Classification 적용
+			- 전략: light backbone, data augmentation,
 		-
 	- ## Related Works
 		-
