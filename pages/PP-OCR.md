@@ -30,7 +30,8 @@
 			- #### light backbone
 				- backbone의 크기는 모델의 크기에 많은 영향을 끼침
 				- ![image.png](../assets/image_1669609385583_0.png)
-				- (본인들의 PaddleClas)에 따르면 MobileNetV3이 동시간대 예측 속도에서 가장
+				- (본인들의 PaddleClas)에 따르면 MobileNetV3이 동시간대 예측 속도에서 높은 성능을 보였음
+				-
 	- ## Experiments
 	-
 	- ## Results
