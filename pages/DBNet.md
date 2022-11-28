@@ -1,3 +1,19 @@
+- Paper
+	- 저자:
+	- 날짜:
+	- 상태:
+	- 주소:
+	-
+	- ## Introduction
+	-
+	- ## Related Works
+	-
+	- ## Methodologies
+	-
+	- ## Experiments
+	-
+	- ## Results
+-
 -
 - ## 발표자료
 	- [DBNet.pptx](../assets/DBNet_1669348910224_0.pptx)
