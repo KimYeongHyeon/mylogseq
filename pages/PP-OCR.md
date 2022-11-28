@@ -58,6 +58,7 @@
 				- ![image.png](../assets/image_1669611572562_0.png)
 				- 기존 모델에서 중요하지 않은 sub-network를 찾는 FPGM을 적용
 				- FPGM은 geometric median을 조건으로 사용해 convolution layer의 각 필터가 Eucliaiean space에 있는 점이라고 간주함. 그 이후 포인트들의 geometric median을 계산하고 비슷한 값을 가진 filter를 제거함
+				- 각 layer의 압축 비율은 p
 				-
 	- ## Experiments
 	-
