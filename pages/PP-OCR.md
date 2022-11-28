@@ -26,7 +26,9 @@
 	- ## Related Works
 		-
 	- ## Methodologies
-	-
+		- ##### Text Detection
+			- # light backbone
+			-
 	- ## Experiments
 	-
 	- ## Results
