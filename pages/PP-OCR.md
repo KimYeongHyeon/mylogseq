@@ -20,7 +20,9 @@
 			- 구조: CRNN
 			- 9개 전략: light backbone, data augmentation, cosine larning rate decay, feature map resolution, regularization parameters, learnnig rate warm-iup, light head, pre-trained model, PACT quantization
 		- #### 학습 데이터셋
-			-
+			- Text Detection: 97k
+			- Direction classification: 600k
+			- Text Recognition: 17.9M
 	- ## Related Works
 		-
 	- ## Methodologies
