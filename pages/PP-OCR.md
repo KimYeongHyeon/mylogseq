@@ -42,7 +42,7 @@
 			- #### Remove SE
 				- ![image.png](../assets/image_1669610136962_0.png)
 				- SE는 squeeze-and-excitation을 나타냄.
-				- SE block
+				- SE block은 채널 간의
 	- ## Experiments
 	-
 	- ## Results
