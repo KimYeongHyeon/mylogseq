@@ -9,6 +9,9 @@
 		- 1) 모델 성능 올리기
 		- 2) 모델 경량화
 		- ![image.png](../assets/image_1669608737194_0.png)
+		- #### Text Detection
+			- DBNet을 이용
+			- effectiveness와 efficienecy를 light backbone, light head, remove SE module, cosine learning rate decay, learning rate warm-up, FPGM pruner
 		-
 	- ## Related Works
 		-
