@@ -34,6 +34,7 @@
 				- 실험적으로 정확도와 효과를 밸런스 해보니 MobileNetV3_large_x0.5를 선택함
 			- #### Light Head
 				- text detection의 head는 FPN과 유사한데, 작은 텍스트 영역 검출에 대한 성능을 향상 시키기 위해 다양한 크기의 feature map을 fuse함
+				- 다른 해상도의 feature map을 merge하기 위해 편의상 1x1 conv.를 사용해 feaut
 	- ## Experiments
 	-
 	- ## Results
