@@ -8,9 +8,10 @@
 		- Practical Lightweight OCR system 개발을 위한 방법 제안
 		- 1) 모델 성능 올리기
 		- 2) 모델 경량화
+		- ![image.png](../assets/image_1669608737194_0.png)
 		-
 	- ## Related Works
-		- 2
+		-
 	- ## Methodologies
 	-
 	- ## Experiments
