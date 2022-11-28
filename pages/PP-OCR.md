@@ -68,7 +68,10 @@
 				- AutoAugment, RandAugment, CutOut, RandErasing, HideAndSeek, GridMask, Mixup, Cutmix 등을 추가해 학습해봤지만, RandAugment가 가장 좋은 성능을 보임
 				- 최종적으로 BDA와 RandAugment를 학습 Augmentation으로 추가
 			- #### Input Resolution
-				- 일반적으로 32x100으로 세팅하나, 48x192로 세팅
+				- 일반적으로 32x100으로 세팅하나, 성능 향상을 위해 48x192로 세팅
+				- light backbone을 사용하기에 계산에 무리 없음
+			- #### PACT Quantization
+				-
 				-
 	- ## Experiments
 	-
