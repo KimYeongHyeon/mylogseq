@@ -1,0 +1,1 @@
+- https://learn.microsoft.com/en-us/azure/applied-ai-services/form-recognizer/overview?view=form-recog-2.1.0
