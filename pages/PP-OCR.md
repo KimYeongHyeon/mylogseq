@@ -51,7 +51,8 @@
 				- ![image.png](../assets/image_1669611093135_0.png){:height 549, :width 632}
 				- 학습 초기에는 높은 학습률을 가져 빠르게 수렴 할 수 있게 하다가, optimal weight에 가까워지면 학습률을 상대적으로 낮추는 cosine learning rate decay적용
 			- ## Learing Rate Warm-up
-				- 학습 초기에, 수치적으로 불안정한 결과를 낳을 수 있는 매우 큰 learning rate를 적용
+				- 학습 초기에, 매우 큰 learning rate를 적용하게 되면 수치적으로 불안정한 결과를 낳을 수 있기에 작은 learning rate를 사용하는 것이 추천됨
+				- 그러다가 학습이 안정되면 초기 learning rate
 				-
 	- ## Experiments
 	-
