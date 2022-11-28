@@ -65,6 +65,7 @@
 				- 모델 사이즈가 증가하더라도 눈에 띄는 성능 향상은 없었음
 			- #### Data Augmentation
 				- BDA(Base Data Augmentation) - Rotation, Perspective distortion, Motion blur, Gaussian noise
+				- AutoAugment, RandAugment, CutOut, RandErasing, HideAndSeek, GridMask, Mixup, Cutmix 등을 추가해 학습해봤지만, R
 	- ## Experiments
 	-
 	- ## Results
