@@ -5,7 +5,9 @@
 	- 주소: https://arxiv.org/abs/2009.09941
 	-
 	- ## Introduction
-	-
+		- Practical Lightweight OCR system 개발을 위한 방법 제안
+		-
+		-
 	- ## Related Works
 	-
 	- ## Methodologies
