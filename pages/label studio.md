@@ -6,6 +6,10 @@
 	- Streamlined design
 	- Configurable label formats
 	- Support for multiple data types
+-
+-
+- ## 사용 예시
+	- https://github.com/heartexlabs/label-studio#what-is-label-studio
 	-
 -
 -
