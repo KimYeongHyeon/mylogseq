@@ -90,7 +90,7 @@
 				- multilingual recognition에 적용하기 위해 (특히 중국어 인식), CRNN의 입력 크기를 32x320으로 세팅함
 				- 그러기하기 기존 MobileNetV3의 stride는 text recogntion에 적합하지 않음
 				- 더 많은 horizontal 정보를 유지하기 위해, 처음 feature map을 제외하고 down sampling feature map의 stride를 (2,2)에서 (2,1)로 수정함
-				-
+				- 더 많은 veritcal 정보를 유지하기 위해, 두 번째 downa sampling feature map의  stride를 (2,1)에서 (1,1)로 수정함 => 전체 feature map의 해상도와 성능에
 			- #### Regularization Parameters
 	- ## Experiments
 	-
