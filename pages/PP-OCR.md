@@ -79,6 +79,7 @@
 				- ![image.png](../assets/image_1669679362392_0.png)
 				- 추가로, model robustness를 향상 시키기 위해 PACT 파라미터에 0.001로 세팅한 L2 regularization도 포함함
 		- ### Text Recognition
+			- ![image.png](../assets/image_1669686737806_0.png)
 			- #### Light Backbone
 				- MobileNetV3
 			- #### Data Augmentation
@@ -93,7 +94,9 @@
 				- 더 많은 veritcal 정보를 유지하기 위해, 두 번째 downa sampling feature map의  stride를 (2,1)에서 (1,1)로 수정함 => 전체 feature map의 해상도와 성능에 극적인 효과를 보임
 			- #### Regularization Parameters
 				- 마지막 loss function 이후 L2 regularization이 lsos 함수에 추가됨.
-			- Learning Rate Warm-up
+			- ### Learning Rate Warm-up
+			- ### Light Head
+				-
 	- ## Experiments
 	-
 	- ## Results
