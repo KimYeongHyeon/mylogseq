@@ -25,7 +25,7 @@
 		- OCR dependency로 발생하는 문제 해결을 위해 OCR-free VDU model 제안
 		- Pre-train-and-fine-tune scheme을 따름
 			- pre-training phase: 이미지와 이전 텍스트 문맥에 대한 조건부 확률로 다음 단어를 예측함으로써 **how to read the texts**를 배움
-			- fine-tune phase:
+			- fine-tune phase: Downstra
 	- ## Related Works
 		-
 	- ## Methodologies
