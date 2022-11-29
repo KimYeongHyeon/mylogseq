@@ -13,7 +13,11 @@
 		- `donut`  interprets all tasks as a JSON prediction problem.
 		- Understanding document images (e.g., invoices) is a core but challenging task since it requires complex functions such as reading text and a holistic understanding of the document.
 		- VDU는 document classification, information extraction, visual question anwering등의 응용 분야에 적용 가능
-		- 일반적은 VDU
+		- 일반적은 VDU 방법은 two-stage manner로 나눠 푼다.
+			- 1) 문서 이미지에서 글자 읽기
+			- 2) 문서를 깜짝 놀랄 정도로 이해하기
+			- 대부분 딥러닝 기반의 OCR에 의존해 1)를 해결
+			-
 		- OCR 기반의 visual document understanding의 경우 다음과 같은 문제를 겪는다
 			- OCR를 사용하는데 있어 높은 computational cost
 			- 문서 종류나 언어에 대한 inflexibility
