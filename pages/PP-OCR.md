@@ -96,7 +96,7 @@
 				- 마지막 loss function 이후 L2 regularization이 lsos 함수에 추가됨.
 			- ### Learning Rate Warm-up
 			- ### Light Head
-				-
+				- FC layer는 예측된 문자로 sequence feature로 enoc
 	- ## Experiments
 	-
 	- ## Results
