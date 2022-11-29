@@ -15,7 +15,7 @@
 		- OCR 기반의 visual document understanding의 경우 다음과 같은 문제를 겪는다
 			- OCR를 사용하는데 있어 높은 computational cost
 			- 문서 종류나 언어에 대한 inflexibility
-			- OCR error가 연속해서 펴저 나감
+			- OCR error가 연속해서 퍼져 나감 ()
 			-
 	- ## Related Works
 		-
