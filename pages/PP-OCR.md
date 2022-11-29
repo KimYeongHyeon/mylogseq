@@ -98,7 +98,10 @@
 			- ### Light Head
 				- FC layer는 예측된 문자로 sequence feature로 encode하는 역할을 함
 				- sequence feature의 차원은 모델 사이즈에 영향을 준다; 특히 6천자가 넘는 문자를 갖고 있는 중국어의 경우에 더더욱!
-				- 반면, 차원이 돞다고 해서, sq
+				- 반면, 차원이 높다고 해서, sequence feature의 표현 능력이 강해지는 건 아님
+				- 실험적으로 sequence feature의 차원은 48로 지정함
+			- ### Pre-trained Model
+				- 만약 학습 데이터가 적다면, 큰 데이터셋에 학습된 모델에
 	- ## Experiments
 	-
 	- ## Results
