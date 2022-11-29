@@ -12,7 +12,10 @@
 	- ## Introduction
 		- `donut`  interprets all tasks as a JSON prediction problem.
 		- Understanding document images (e.g., invoices) is a core but challenging task since it requires complex functions such as reading text and a holistic understanding of the document.
-		- OCR 기반의
+		- OCR 기반의 visual document understanding의 경우 다음과 같은 문제를 겪는다
+			- OCR를 사용하는데 있어 높은 computational cost
+			- 문서 종류나 언어에 대한 inflexibility
+			- subOCR error가 prop
 	- ## Related Works
 		-
 	- ## Methodologies
