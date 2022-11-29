@@ -101,7 +101,8 @@
 				- 반면, 차원이 높다고 해서, sequence feature의 표현 능력이 강해지는 건 아님
 				- 실험적으로 sequence feature의 차원은 48로 지정함
 			- ### Pre-trained Model
-				- 만약 학습 데이터가 적다면, 큰 데이터셋에 학습된 모델에
+				- 만약 학습 데이터가 적다면, 큰 데이터셋에 학습된 모델에 fine-tune하는 것이 빠르게 수렴하고 더 나은 성능을 달성하는데 도움이 됨
+				- 모델이 수 천만 장으 ㅣ
 	- ## Experiments
 	-
 	- ## Results
