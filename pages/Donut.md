@@ -5,7 +5,7 @@
 	- 주소: [논문](https://arxiv.org/abs/2111.15664), [코드](https://github.com/clovaai/donut)
 	-
 	- ## Introduction
-		-
+		- `donut`  interprets all tasks as a JSON prediction problem.
 	- ## Related Works
 		-
 	- ## Methodologies
