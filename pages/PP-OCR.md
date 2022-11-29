@@ -8,7 +8,7 @@
 		- Practical Lightweight OCR system 개발을 위한 방법 제안
 		- 1) 모델 성능 올리기
 		- 2) 모델 경량화
-		- ![image.png](../assets/image_1669608737194_0.png)
+		- ![image.png](../assets/image_1669608737194_0.png){:height 354, :width 716}
 		- #### Text Detection
 			- 구조: DBNe
 			- effectiveness와 efficienecy를 향상 시키기 위해 6개의 전략을 제안: light backbone, light head, remove SE module, cosine learning rate decay, learning rate warm-up, FPGM pruner
