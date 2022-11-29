@@ -1,8 +1,8 @@
 - Paper
-	- 저자:
+	- 저자: Kim
 	- 날짜:
-	- 상태:
-	- 주소: https://github.com/clovaai/donut#how-to-cite
+	- 상태: On
+	- 주소: [논문](https://arxiv.org/abs/2111.15664), [코드](https://github.com/clovaai/donut)
 	-
 	- ## Introduction
 		-
