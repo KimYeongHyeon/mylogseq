@@ -87,7 +87,8 @@
 			- ### Cosine Learning Rate Decay
 			- ### Feature Map Resolution
 				- ![image.png](../assets/image_1669682742753_0.png)
-				-
+				- multilingual recognition에 적용하기 위해 (특히 중국어 인식), CRNN의 입력 크기를 32x320으로 세팅함
+				- 그러기하기 기존 MobileNetV3의 stride는 text recogntion에 적합하지 않음
 			- ####
 	- ## Experiments
 	-
