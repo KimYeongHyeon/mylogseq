@@ -22,7 +22,7 @@
 			- OCR를 사용하는데 있어 높은 computational cost
 			- 문서 종류나 언어에 대한 inflexibility => poor generalization ability
 			- OCR error가 연속해서 퍼져 나감 (OCR error propagation to the sub-sequent process)
-		- OCR-free VDU model 제안
+		- OCR dependency로 발생하는 문제 해결을 위해 OCR-free VDU model 제안
 			-
 	- ## Related Works
 		-
