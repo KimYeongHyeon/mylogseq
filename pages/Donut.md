@@ -20,7 +20,7 @@
 			- ![image.png](../assets/image_1669701171135_0.png)
 		- OCR 기반의 visual document understanding의 경우 다음과 같은 문제를 겪는다
 			- OCR를 사용하는데 있어 높은 computational cost
-			- 문서 종류나 언어에 대한 inflexibility
+			- 문서 종류나 언어에 대한 inflexibility => poor generalization ability
 			- OCR error가 연속해서 퍼져 나감 (OCR error propagation to the sub-sequent process)
 		- OCR-free VDU model 제안
 			-
