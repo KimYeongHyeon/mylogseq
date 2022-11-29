@@ -83,7 +83,11 @@
 				- MobileNetV3
 			- #### Data Augmentation
 				- ![image.png](../assets/image_1669682472183_0.png)
-				- BDA, TIA
+				- BDA, TIA 적용
+			- ### Cosine Learning Rate Decay
+			- ### Feature Map Resolution
+				- ![image.png](../assets/image_1669682742753_0.png)
+				-
 			- ####
 	- ## Experiments
 	-
