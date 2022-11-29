@@ -96,7 +96,9 @@
 				- 마지막 loss function 이후 L2 regularization이 lsos 함수에 추가됨.
 			- ### Learning Rate Warm-up
 			- ### Light Head
-				- FC layer는 예측된 문자로 sequence feature로 enoc
+				- FC layer는 예측된 문자로 sequence feature로 encode하는 역할을 함
+				- sequence feature의 차원은 모델 사이즈에 영향을 준다; 특히 6천자가 넘는 문자를 갖고 있는 중국어의 경우에 더더욱!
+				- 반면, 차원이 돞다고 해서, sq
 	- ## Experiments
 	-
 	- ## Results
