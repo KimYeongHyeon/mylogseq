@@ -23,6 +23,20 @@
 -
 - ## Key Information Extraction
 -
+- ## Post Processing
+	- 50. Rijhwani, S., Anastasopoulos, A., Neubig, G.: OCR Post Correction for
+	  Endangered Language Texts. In: Proceedings of the 2020 Conference
+	  on Empirical Methods in Natural Language Processing (EMNLP). pp.
+	  5931–5942. Association for Computational Linguistics, Online (Nov 2020).
+	  https://doi.org/10.18653/v1/2020.emnlp-main.478, https://aclanthology.org/
+	  2020.emnlp-main.478 3, 11
+	  51. Schaefer, R., Neudecker, C.: A two-step approach for automatic OCR postcorrection.
+	  In: Proceedings of the The 4th Joint SIGHUM Workshop on Computational
+	  Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature.
+	  pp. 52–57. International Committee on Computational Linguistics, Online
+	  (Dec 2020), https://aclanthology.org/2020.latechclfl-1.6 3, 11
+	-
+-
 - # 데이터
 - ## [[데이터셋]]
 -
