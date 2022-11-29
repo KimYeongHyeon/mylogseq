@@ -5,7 +5,9 @@
 	- 주소: [논문](https://arxiv.org/abs/2111.15664), [코드](https://github.com/clovaai/donut)
 	-
 	- ## 데이터 샘플
-		- https://huggingface.co/datasets/naver-clova-ix/cord-v2
+		- #### For Document Information Extraction
+			- https://huggingface.co/datasets/naver-clova-ix/cord-v2
+		-
 	-
 	- ## Introduction
 		- `donut`  interprets all tasks as a JSON prediction problem.
