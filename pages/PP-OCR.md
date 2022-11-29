@@ -78,7 +78,7 @@
 				- MobileNetV3에는 activation은 ReLU뿐만 아니라 hard swish도 포함되어 있어 일반적인 PACT 사용 시 더 높은 quantization loss을 만들 수 있기에 다음과 같이 수정본을 씀
 				- ![image.png](../assets/image_1669679362392_0.png)
 				- 추가로, model robustness를 향상시키기 위해 PACT 파라미터에 0.001로 세팅한 L2 regularization도 포함함
-				-
+		- ###
 	- ## Experiments
 	-
 	- ## Results
