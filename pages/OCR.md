@@ -30,12 +30,8 @@
 	  5931–5942. Association for Computational Linguistics, Online (Nov 2020).
 	  https://doi.org/10.18653/v1/2020.emnlp-main.478, https://aclanthology.org/
 	  2020.emnlp-main.478 3, 11
-	  51. Schaefer, R., Neudecker, C.: A two-step approach for automatic OCR postcorrection.
-	  In: Proceedings of the The 4th Joint SIGHUM Workshop on Computational
-	  Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature.
-	  pp. 52–57. International Committee on Computational Linguistics, Online
-	  (Dec 2020), https://aclanthology.org/2020.latechclfl-1.6 3, 11
-	-
+	- 51. Schaefer, R., Neudecker, C.: A two-step approach for automatic OCR postcorrection. In: Proceedings of the The 4th Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature. pp. 52–57. International Committee on Computational Linguistics, Online  Dec 2020), https://aclanthology.org/2020.latechclfl-1.6 3, 11
+	- 10. Duong, Q., H¨am¨al¨ainen, M., Hengchen, S.: An unsupervised method for OCR post-correction and spelling normalisation for Finnish. In: Proceedings of the 16 G. Kim et al. 23rd Nordic Conference on Computational Linguistics (NoDaLiDa). pp. 240–248. Link¨oping University Electronic Press, Sweden, Reykjavik, Iceland (Online) (May 31–2 Jun 2021), https://aclanthology.org/2021.nodalida-main.24 3, 11
 -
 - # 데이터
 - ## [[데이터셋]]
