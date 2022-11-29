@@ -11,6 +11,8 @@
 	-
 	- ## Introduction
 		- `donut`  interprets all tasks as a JSON prediction problem.
+		- Understanding document images (e.g., invoices) is a core but challenging task since it requires complex functions such as reading text and a holistic understanding of the document.
+		- OCR 기반의
 	- ## Related Works
 		-
 	- ## Methodologies
