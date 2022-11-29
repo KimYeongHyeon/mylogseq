@@ -82,6 +82,7 @@
 			- #### Light Backbone
 				- MobileNetV3
 			- #### Data Augmentation
+				- ![image.png](../assets/image_1669682472183_0.png)
 				- BDA, TIA
 			- ####
 	- ## Experiments
