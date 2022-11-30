@@ -4,6 +4,8 @@
 	-
 	- ## 제공 기능
 		- Bounding Boxes
+		- Text
+		- Group
 		-
 	- ## 사용 예시
 		-
