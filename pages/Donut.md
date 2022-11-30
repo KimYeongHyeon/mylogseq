@@ -36,7 +36,10 @@
 			- OCR과 BERT의 비약적인 발전으로, 여러 OCR-dependent VUD모델들은 그 둘을 합쳤으며,
 			- 최근의 general VDU는 개쩌는 OCR 엔진과 large-scale real document image data (IIT-CDIP)를 이용해 model pretrain을 수행한다. 눈에 띄는 진보를 이뤘지만 전체적인 VDU의 성능을 ensure하기 위해선 최신의 OCR 엔진을 이용하는 노력이 필요하다
 		- ### Document Understanding Transformer
-			- Donut은 Transformer 기반의 visual encoder와 textual
+			- Donut은 Transformer 기반의 visual encoder와 textual decoder module로 이뤄짐
+			- OCR 기능이 있는 모듈에 의존하지 않고 주어진 문서 이미지에서 특징을 추출하는 visual encoder를 이용
+			- Textural
+			-
 	- ## Experiments
 		-
 	- ## Results
