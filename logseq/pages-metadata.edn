@@ -59,8 +59,8 @@
   :block/created-at 1665983092128,
   :block/updated-at 1665983092128}
  {:block/name "key information extraction",
-  :block/created-at 1669772568236,
-  :block/updated-at 1669772568236}
+  :block/created-at 1669787482679,
+  :block/updated-at 1669787778139}
  {:block/name "label studio",
   :block/created-at 1669612031565,
   :block/updated-at 1669772553809}
@@ -108,7 +108,7 @@
   :block/updated-at 1665983092128}
  {:block/name "ocr",
   :block/created-at 1668489767333,
-  :block/updated-at 1669772587637}
+  :block/updated-at 1669787953541}
  {:block/name "ocr 논문",
   :block/created-at 1669612031640,
   :block/updated-at 1669695813339}
@@ -137,6 +137,12 @@
  {:block/name "ppocrlabel",
   :block/created-at 1669362794382,
   :block/updated-at 1669362794382}
+ {:block/name "relation extraction",
+  :block/created-at 1669787479722,
+  :block/updated-at 1669787679112}
+ {:block/name "sementic entity recognition",
+  :block/created-at 1669787469055,
+  :block/updated-at 1669787674699}
  {:block/name "styletext",
   :block/created-at 1669362794912,
   :block/updated-at 1669362794912}
@@ -182,6 +188,9 @@
  {:block/name "waiting",
   :block/created-at 1665983092128,
   :block/updated-at 1665983092128}
+ {:block/name "xfund",
+  :block/created-at 1669787674699,
+  :block/updated-at 1669787701874}
  {:block/name "공백이 섞인 text 박스",
   :block/created-at 1668659904058,
   :block/updated-at 1668753178485}

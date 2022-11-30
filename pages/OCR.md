@@ -22,7 +22,7 @@
 ## [[Key Information Extraction]]
 	-
 - ## [[Sementic Entity Recognition]]
--
+	- 검출된 단어의 클래스 분류라고 생각해야 할 듯
 - ## [[Relation Extraction]]
 -
 -
