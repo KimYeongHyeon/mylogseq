@@ -55,9 +55,10 @@
 				- original Transformer가 사용
 			- test단계에선 모델은 주어진 prompt에 대한 token sequence를 생성
 				- GPT-3에서 영감 받음
-			- 각 downstream task에 대한 명령어용 new special token을 추가
-			-
-		-
+			- 각 downstream task에 대한 명령어에 대해 새로운 특수 token을 추가
+				- ![image.png](../assets/image_1669852531442_0.png)
+		- ### Output Conversion
+			- output token sequence를
 			-
 	- ## Experiments
 		-
