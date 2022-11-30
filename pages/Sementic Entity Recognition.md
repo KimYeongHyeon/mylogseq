@@ -1,0 +1,2 @@
+- Given a visually rich document D, we acquire discrete token set t = {t0, t1, ..., tn}, where each token
+  ti = (w,(x0, y0, x1, y1)) consists of a word w and its bounding box coordinates (x0, y0, x1, y1).

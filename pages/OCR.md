@@ -19,7 +19,12 @@
 -
 - ## [[Layout Analysis]]
 -
-- ## [[Key Information Extraction]]
+## [[Key Information Extraction]]
+-
+- ## [[Sementic Entity Recognition]]
+-
+- ## [[Relation Extraction]]
+-
 -
 - ## Post Processing
 	- 50. Rijhwani, S., Anastasopoulos, A., Neubig, G.: OCR Post Correction for
