@@ -58,7 +58,8 @@
 			- 각 downstream task에 대한 명령어에 대해 새로운 특수 token을 추가
 				- ![image.png](../assets/image_1669852531442_0.png)
 		- ### Output Conversion
-			- output token sequence를
+			- output token sequence를 JSON 형태의 구조적 포맷으로 변경
+			- [START_*], [END_*]
 			-
 	- ## Experiments
 		-
