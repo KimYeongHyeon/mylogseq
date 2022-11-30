@@ -18,7 +18,7 @@
 			- 전략: light backbone, data augmentation, input resolution, PACT quantization
 		- #### Text Recognition
 			- 구조: CRNN
-			- 9개 전략: light backbone, data augmentation, cosine larning rate decay, feature map resolution, regularization parameters, learnnig rate warm-iup, light head, pre-trained model, PACT quantization
+			- 9개 전략: light backbone, data augmentation, cosine learning rate decay, feature map resolution, regularization parameters, learning rate warm-up, light head, pre-trained model, PACT quantization
 		- #### 학습 데이터셋
 			- Text Detection: 97k
 			- Direction classification: 600k
