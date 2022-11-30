@@ -1,0 +1,2 @@
+- [[논문]]
+	- [ICDAR2019 Competition on Scanned Receipt OCR and Information Extraction](https://arxiv.org/pdf/2103.10213.pdf)
