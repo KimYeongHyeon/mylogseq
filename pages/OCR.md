@@ -20,7 +20,7 @@
 - ## [[Layout Analysis]]
 -
 ## [[Key Information Extraction]]
-	-
+	- 관심 있는 정보만 추출하는 것.
 - ## [[Sementic Entity Recognition]]
 	- 검출된 단어의 클래스 분류라고 생각해야 할 듯
 - ## [[Relation Extraction]]
