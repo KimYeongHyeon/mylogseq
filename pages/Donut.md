@@ -42,6 +42,7 @@
 			- 각 모델 요소는 Transformer-based여서 end-to-end로 학습 됨
 		- ### Encoder
 			- 입력 이미지 $$x \in \mathbb{R}^{H \times W \times C}$$ 를 임베딩 셋 $$\{ \mathbf{z}_i|\mathbf{z}_i \in \mathbb{R}^d , 1\le i\le n \}$$으로 바꿈, $$n$$은 특징 맵 크기 이거나 이미지 패치의 수이며 $$d$$는 encoder의 latent vector 차원
+			- Encoder 네트워크는
 		-
 			-
 	- ## Experiments
