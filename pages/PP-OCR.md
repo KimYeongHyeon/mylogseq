@@ -8,6 +8,7 @@
 		- Practical Lightweight OCR system 개발을 위한 방법 제안
 		- 1) 모델 성능 올리기
 		- 2) 모델 경량화
+			- OCR 시스템은 많은 경우 임베디드 시스템에서 작동함
 		- ![image.png](../assets/image_1669608737194_0.png){:height 354, :width 716}
 		- #### Text Detection
 			- 구조: DBNet
