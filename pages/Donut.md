@@ -46,7 +46,7 @@
 				- 논문에서는 Swin-Transformer 사용
 			- Encoder의 output $$\{\mathbf{z}\}$$은 다음에 따라오는 decoder로 들어감
 		- ### Decoder
-			- d
+			- 입력된 $$\{\mathbf{z}\}$$로, textual decoder는 token sequence $$(\mathbf{y}_i)^m_{i=1}$$
 			-
 		-
 			-
