@@ -44,6 +44,8 @@
 			- 입력 이미지 $$x \in \mathbb{R}^{H \times W \times C}$$ 를 임베딩 셋 $$\{ \mathbf{z}_i|\mathbf{z}_i \in \mathbb{R}^d , 1\le i\le n \}$$으로 바꿈, $$n$$은 특징 맵 크기 이거나 이미지 패치의 수이며 $$d$$는 encoder의 latent vector 차원
 			- Encoder 네트워크는 CNN이나 Transformer가 될 수 있음 (비교 실험 수행)
 				- 논문에서는 Swin-Transformer 사용
+			- Encoder의 output은 다음에 따라오는 decoder로 들어감
+		- ### Decoder
 			-
 		-
 			-
