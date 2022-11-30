@@ -31,7 +31,8 @@
 	- ## Related Works
 		-
 	- ## Methodologies
-		-
+		- ![image.png](../assets/image_1669798076279_0.png)
+		- 이전의 VDU는
 	- ## Experiments
 		-
 	- ## Results
