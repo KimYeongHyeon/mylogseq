@@ -72,7 +72,7 @@
   :block/updated-at 1665983092128}
  {:block/name "layout analysis",
   :block/created-at 1669362793848,
-  :block/updated-at 1669362793848}
+  :block/updated-at 1669784512156}
  {:block/name "methods for finding near-duplicates",
   :block/created-at 1667882206924,
   :block/updated-at 1667882217829}
