@@ -5,4 +5,4 @@
   types. In other words, we intend to find a function FSER : (D, C) → E, where E is the predicted
   semantic entity set:
   ![image.png](../assets/image_1669787524997_0.png)
--
+  출처: [[XFUND]]
