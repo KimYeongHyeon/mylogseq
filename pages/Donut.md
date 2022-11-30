@@ -53,7 +53,9 @@
 			- teacher-forcing scheme 이용
 				- 이전 time-step의 모델 출력 대신 GT를 입력으로 사용하는 모델 학습 전략
 				- original Transformer가 사용
-			- test단계에선 모델은 prompt가 주어질때
+			- test단계에선 모델은 주어진 prompt에 대한 token sequence를 생성
+				- GPT-3에서 영감 받음
+			- 각 downstream task에 대한 명령어용 new special token을 추가
 			-
 		-
 			-
