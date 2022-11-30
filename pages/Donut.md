@@ -41,7 +41,7 @@
 			- Textual decoder는 추출된 feature를 일련의 subword token에 매핑해 원하는 형태의 구조적 포맷을 형성. (Json과 같은)
 			- 각 모델 요소는 Transformer-based여서 end-to-end로 학습 됨
 		- ### Encoder
-			-
+			- 입력 이미지 $$x\inR$$
 		-
 			-
 	- ## Experiments
