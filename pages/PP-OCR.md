@@ -10,7 +10,7 @@
 		- 2) 모델 경량화
 		- ![image.png](../assets/image_1669608737194_0.png){:height 354, :width 716}
 		- #### Text Detection
-			- 구조: DBNe
+			- 구조: DBNet
 			- effectiveness와 efficienecy를 향상 시키기 위해 6개의 전략을 제안: light backbone, light head, remove SE module, cosine learning rate decay, learning rate warm-up, FPGM pruner
 		- #### Detection Boxes Rectify
 			- 검출된 text 박스를 똑바로 맞추기 위해 Classification 적용
