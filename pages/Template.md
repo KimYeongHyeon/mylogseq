@@ -31,4 +31,7 @@
 		-
 -
 - label template
-	- Tempate:: a
+  template::  label template
+	- 날짜:
+	- 주소:
+	- ##
