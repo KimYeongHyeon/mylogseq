@@ -1,8 +1,9 @@
 - label template
-	- 날짜:
 	- 주소:
+	- tags: [[Text Detection]] [[Text Recognition]]
 	-
 	- ## 제공 기능
+		- Bounding Boxes
 		-
 	- ## 사용 예시
-	-
+		-

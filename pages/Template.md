@@ -32,8 +32,8 @@
 -
 - label template
   template::  label template
-	- 날짜:
 	- 주소:
+	- tags:
 	-
 	- ## 제공 기능
 		-
