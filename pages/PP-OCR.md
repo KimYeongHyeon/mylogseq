@@ -72,7 +72,7 @@
 				- 일반적으로 32x100으로 세팅하나, 성능 향상을 위해 48x192로 세팅
 				- light backbone을 사용하기에 계산에 무리 없음
 			- #### PACT Quantization (PArameterized Clipping acTivation)
-				- 미리 활성함수에서 outlier를 제거하는 online quantization을 적용
+				- 사전에 활성함수에서 outlier를 제거하는 online quantization을 적용
 				- outlier를 제거한 후 model은 더 적정한 quantitative scale을 학습할 수 있음
 				- 기존 PACT 함수
 				- ![image.png](../assets/image_1669679263810_0.png)
