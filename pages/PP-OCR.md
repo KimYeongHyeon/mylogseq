@@ -62,7 +62,7 @@
 				- 각 layer의 압축 비율은 pruning의 중요한 요소이다. 모든 layer를 균등하게 (uniformly) pruning하는 것은 상당한 성능 저하를 이끌 수 있다.
 		- ### Text Direction Rectification
 			- #### Light Backbone
-				- MobileNetV3 사용
+				- MobileNetV3 small x0.35 사용
 				- 모델 사이즈가 증가하더라도 눈에 띄는 성능 향상은 없었음
 			- #### Data Augmentation
 				- BDA(Base Data Augmentation) - Rotation, Perspective distortion, Motion blur, Gaussian noise 적용
