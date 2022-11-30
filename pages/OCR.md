@@ -26,7 +26,7 @@
 	- 검출된 단어의 클래스 분류라고 생각해야 할 듯
 	- 필요정보: text, type(heading, question, answer 등)
 - ## [[Relation Extraction]]
-	- SER에서 추출된 type간의 관계
+	- SER에서 추출된 type간의 관계 예측
 	- 필요정보: text, question, answer간의 linking 정보
 -
 - ## Post Processing
