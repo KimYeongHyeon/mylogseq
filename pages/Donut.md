@@ -50,7 +50,10 @@
 				- $$\mathbf{y}_i \in \mathbb{R}^v$$는 i번째 토큰에 대한 one-hot vector, $$v$$는 token vocabulary 크기, $$m$$은 하이퍼 파라미터
 			- BART 구조를 사용하며 model weights를 pre-trained multi-lingual BART model로 초기화함
 		- ### Model Input
-			- teacher-forcing scheme
+			- teacher-forcing scheme 이용
+				- 이전 time-step의 모델 출력 대신 GT를 입력으로 사용하는 모델 학습 전략
+				- original Transformer가 사용
+			- test단계에선 모델은 prompt가 주어질때
 			-
 		-
 			-
