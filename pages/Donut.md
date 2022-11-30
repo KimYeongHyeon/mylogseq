@@ -48,7 +48,9 @@
 		- ### Decoder
 			- 입력된 $$\{\mathbf{z}\}$$로, textual decoder는 token sequence $$(\mathbf{y}_i)^m_{i=1}$$를 생성
 				- $$\mathbf{y}_i \in \mathbb{R}^v$$는 i번째 토큰에 대한 one-hot vector, $$v$$는 token vocabulary 크기, $$m$$은 하이퍼 파라미터
-				- BART 구조를 사요하며 model weights를 pre-trained multi-lingual BART model로 초기화함
+			- BART 구조를 사용하며 model weights를 pre-trained multi-lingual BART model로 초기화함
+		- ### Model Input
+			- teacher-forcing scheme
 			-
 		-
 			-
