@@ -32,7 +32,8 @@
 		-
 	- ## Methodologies
 		- ![image.png](../assets/image_1669798076279_0.png)
-		- 이전의 VDU는
+		- OCR과 BERT의 비약적인 발전으로, 여러 OCR-dependent VUD모델들은 그 둘을 합쳤으며,
+		- 더 좋은 성능을 달성하기 위해 OCR과 model pretrain을 위한
 	- ## Experiments
 		-
 	- ## Results
