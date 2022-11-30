@@ -10,14 +10,12 @@
 	- https://towardsdatascience.com/5-open-source-tools-you-can-use-to-train-and-deploy-an-ocr-project-8f204dec862b
 - # 알고리즘
 - ## 과정
-- [[Text Recognition]]
-- [[Text Detection]]
 - [[Post Processing]]
 -
-- ## Detection
+- ## [[Text Detection]]
 - [[CRAFT]]
 - [[DBNet]]
-- ## Recognition
+- ## [[Text Recognition]]
 -
 - ## [[Layout Analysis]]
 -
