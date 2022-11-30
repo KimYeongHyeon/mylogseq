@@ -20,7 +20,7 @@
 - ## [[Layout Analysis]]
 -
 ## [[Key Information Extraction]]
--
+	-
 - ## [[Sementic Entity Recognition]]
 -
 - ## [[Relation Extraction]]
