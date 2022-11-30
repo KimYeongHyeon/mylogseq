@@ -26,6 +26,8 @@
 		- Pre-train-and-fine-tune scheme을 따름
 			- pre-training phase: 이미지와 이전 텍스트 문맥에 대한 조건부 확률로 다음 단어를 예측함으로써 **how to read the texts**
 			- fine-tune phase: Downstream task에 맞게 **how to understand the whole document**
+			- ![image.png](../assets/image_1669798011071_0.png)
+		-
 	- ## Related Works
 		-
 	- ## Methodologies
