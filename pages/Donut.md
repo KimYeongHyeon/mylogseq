@@ -33,7 +33,7 @@
 	- ## Methodologies
 		- ![image.png](../assets/image_1669798076279_0.png)
 		- OCR과 BERT의 비약적인 발전으로, 여러 OCR-dependent VUD모델들은 그 둘을 합쳤으며,
-		- 더 좋은 성능을 달성하기 위해 OCR과 model pretrain을 위한
+		- 최근의 general VDU는 개쩌는 OCR 엔진과 large-scale real document image data (IIT-CDIP)
 	- ## Experiments
 		-
 	- ## Results
