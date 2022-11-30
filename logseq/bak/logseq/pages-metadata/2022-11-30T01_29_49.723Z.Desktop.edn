@@ -38,8 +38,8 @@
   :block/created-at 1665983092128,
   :block/updated-at 1665983092128}
  {:block/name "donut",
-  :block/created-at 1669769989780,
-  :block/updated-at 1669769989780}
+  :block/created-at 1669695813339,
+  :block/updated-at 1669701968122}
  {:block/name "easyocr",
   :block/created-at 1668489766935,
   :block/updated-at 1669019597077}
@@ -105,7 +105,7 @@
   :block/updated-at 1665983092128}
  {:block/name "ocr",
   :block/created-at 1668489767333,
-  :block/updated-at 1669771432518}
+  :block/updated-at 1669701370377}
  {:block/name "ocr 논문",
   :block/created-at 1669612031640,
   :block/updated-at 1669695813339}
@@ -151,7 +151,7 @@
   :block/updated-at 1669362795697}
  {:block/name "template",
   :block/created-at 1668489769016,
-  :block/updated-at 1669771712885}
+  :block/updated-at 1668490017368}
  {:block/name "text detection",
   :block/created-at 1668489767317,
   :block/updated-at 1668489767317}
@@ -185,9 +185,6 @@
  {:block/name "김윤영 수석님",
   :block/created-at 1666318198508,
   :block/updated-at 1666318198508}
- {:block/name "논문",
-  :block/created-at 1669771417970,
-  :block/updated-at 1669771417970}
  {:block/name "데이터 합성",
   :block/created-at 1669362796895,
   :block/updated-at 1669362796895}
