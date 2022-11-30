@@ -1,4 +1,5 @@
-- https://github.com/heartexlabs/label-studio
+- 주소: https://github.com/heartexlabs/label-studio
+- tags: [[Text Detection]] [[Text Recognition]]
 -
 - ## [제공 기능](https://github.com/heartexlabs/label-studio#what-you-get-from-label-studio)
 	- Multi-user labeling
