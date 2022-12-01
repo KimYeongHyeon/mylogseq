@@ -95,6 +95,8 @@
 			- #### Pre-training
 				- 데이터셋: 11M IIT-CDIP, 2M synthetic
 				- 200K steps, 64 A100 GPU,
+			- #### Fine tuning
+				- 하이퍼 파라미터 수정
 		-
 	- ## Results
 		-
