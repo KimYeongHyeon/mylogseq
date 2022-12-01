@@ -64,7 +64,8 @@
 				- [START_name]이 있는데 [END_name]이 없다면, 모델이 name field를 추출하는 걸 실패했다고 가정
 		- ### Pre-training
 		- ### Task
-			-
+			- 글을 읽는 순서(왼쪽 상단부터 오른쪽 하단쪽으로)로 이미지내 모든 텍스트를 읽도록 모델이 학습됨
+			- objective는 이미지와 이전 context에 대한 결합 확률을 구해
 			-
 	- ## Experiments
 		-
