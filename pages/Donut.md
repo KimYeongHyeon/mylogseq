@@ -65,7 +65,9 @@
 		- ### Pre-training
 		- ### Task
 			- 글을 읽는 순서(왼쪽 상단부터 오른쪽 하단쪽으로)로 이미지내 모든 텍스트를 읽도록 모델이 학습됨
-			- objective는 이미지와 이전 context에 대한 결합 확률을 구해
+			- objective는 이미지와 이전 context에 대한 결합 확률을 구해 다음 token 예측의 cross-entropy loss를 감소시키는 것
+			- 한 마디로 visual corpora로 visual language model을 만드는 것
+		- ### Visual Corpora
 			-
 	- ## Experiments
 		-
