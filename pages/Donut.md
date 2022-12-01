@@ -5,7 +5,7 @@
 	- 주소: [논문](https://arxiv.org/abs/2111.15664), [코드](https://github.com/clovaai/donut)
 	-
 	- ## 데이터 샘플 [링크](https://github.com/clovaai/donut#data)
-		- #### For Document Information Extraction
+		- #### For [[Key Information Extraction]]
 			- https://huggingface.co/datasets/naver-clova-ix/cord-v2
 		-
 	-
