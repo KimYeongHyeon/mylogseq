@@ -75,7 +75,10 @@
 				- 렌더링 순서
 			- 배경 이미지는 ImageNet에서 샘플
 			- texture는 수집한 용지 사진에서 샘플
-			- word와 phrase는
+			- word와 phrase는 wikipedia에서 샘플
+			- 레이아웃은 grid를 랜덤하게 쌓는 간단한 룰기반 알고리즘으로 생성
+		- ### Fine-tuning
+			-
 			-
 	- ## Experiments
 		-
