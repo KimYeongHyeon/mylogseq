@@ -59,7 +59,9 @@
 				- ![image.png](../assets/image_1669852531442_0.png)
 		- ### Output Conversion
 			- output token sequence를 JSON 형태의 구조적 포맷으로 변경
-			- [START_'8], [END_**]
+			- 2개의 특수 token 추가: [START_\*], [END_\*]; *은 추출할 field를 의미
+			- 만약 output token sequence가 잘못 구성되었다면, field가 lost된 걸로 봄
+				-
 			-
 	- ## Experiments
 		-
