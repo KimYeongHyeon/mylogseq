@@ -90,7 +90,11 @@
 			- 모델이 문자를 잘 읽을 뿐만 아니라 레이아웃과 시맨틱을 잘 이해해 그룹과 텍스트 간의 중첩 계층을 예측할 수 있도록 해야함
 		- ### Document Visual Question Answering
 			- 모델의 용량(Capacity) 용도
-			- 문서 이미지와 질문이 쌍으로 주어질 때, 모델은 이미지내에 있는 visual, textual information를 포착해
+			- 문서 이미지와 질문이 쌍으로 주어질 때, 모델은 이미지내에 있는 visual, textual information를 포착해 대답을 예측
+		- ### Setups
+			- #### Pre-training
+				- 데이터셋: 11M IIT-CDIP, 2M synthetic
+				- 200K steps, 64 A100 GPU,
 		-
 	- ## Results
 		-
