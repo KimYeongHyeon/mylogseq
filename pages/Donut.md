@@ -47,7 +47,7 @@
 			- Encoder의 output $$\{\mathbf{z}\}$$은 다음에 따라오는 decoder로 들어감
 		- ### Decoder
 			- 입력된 $$\{\mathbf{z}\}$$로, textual decoder는 token sequence $$(\mathbf{y}_i)^m_{i=1}$$를 생성
-				- $$\mathbf{y}_i \in \mathbb{R}^v$$는 i번째 토큰에 대한 one-hot vector, $$v$$는 token vocabulary 크기, $$m$$은 하이퍼 파라미터
+				- .$$\mathbf{y}_i \in \mathbb{R}^v$$는 i번째 토큰에 대한 one-hot vector, $$v$$는 token vocabulary 크기, $$m$$은 하이퍼 파라미터
 			- BART 구조를 사용하며 model weights를 pre-trained multi-lingual BART model로 초기화함
 		- ### Model Input
 			- teacher-forcing scheme 이용
@@ -84,7 +84,7 @@
 		- ### Downstram Tasks and Datasets
 		- ### Document Classification
 			- 임베딩에 softmax를 취해 분류를 수행하는 모델과는 다르게, 일관되게 태스크를 해결하는 방법을 유지하고자 클래스 정보를 포함하는 json을 생성하도록 함
-		- ### Document Information Extraction
+		- ### Document Information Extraction [[Key Information Extraction]]
 			- 모델이 문서의 복잡한 레이아웃이나 문맥을 이해하는지 확인하고자 하는 태스크
 			- 타겟 온톨로지나 데이터베이스 스키마와 일치하는 구조화된 형태로 각 문서를 map하도록 함
 			- 모델이 문자를 잘 읽을 뿐만 아니라 레이아웃과 시맨틱을 잘 이해해 그룹과 텍스트 간의 중첩 계층을 예측할 수 있도록 해야함
