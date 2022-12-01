@@ -59,7 +59,7 @@
 				- ![image.png](../assets/image_1669852531442_0.png)
 		- ### Output Conversion
 			- output token sequence를 JSON 형태의 구조적 포맷으로 변경
-			- [START_*], [END_*]
+			- [START_'8], [END_**]
 			-
 	- ## Experiments
 		-
