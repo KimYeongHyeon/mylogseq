@@ -71,6 +71,11 @@
 			- IIT-CDIP (11M개의 스캔된 영문서 이미지 데이터셋)과 같은 데이터셋을 모든 언어에 대해 구할 수 없으니 SynthDoG 개발
 		- ### Synthetic Document Generator
 			- ![image.png](../assets/image_1669854307395_0.png)
+			- ![image.png](../assets/image_1669854357639_0.png)
+				- 렌더링 순서
+			- 배경 이미지는 ImageNet에서 샘플
+			- texture는 수집한 용지 사진에서 샘플
+			- word와 phrase는
 			-
 	- ## Experiments
 		-
