@@ -68,6 +68,8 @@
 			- objective는 이미지와 이전 context에 대한 결합 확률을 구해 다음 token 예측의 cross-entropy loss를 감소시키는 것
 			- 한 마디로 visual corpora로 visual language model을 만드는 것
 		- ### Visual Corpora
+			- IIT-CDIP (11M개의 스캔된 영문서 이미지 데이터셋)과 같은 데이터셋을 모든 언어에 대해 구할 수 없으니 SynthDoG 개발
+		- ### Synthetic Document G
 			-
 	- ## Experiments
 		-
