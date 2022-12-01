@@ -78,7 +78,7 @@
 			- word와 phrase는 wikipedia에서 샘플
 			- 레이아웃은 grid를 랜덤하게 쌓는 간단한 룰기반 알고리즘으로 생성
 		- ### Fine-tuning
-			-
+			- 모델이 how to read를 학습하고나서 fine-tuning 단계에서 모델에게
 			-
 	- ## Experiments
 		-
