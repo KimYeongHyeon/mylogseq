@@ -61,7 +61,9 @@
 			- output token sequence를 JSON 형태의 구조적 포맷으로 변경
 			- 2개의 특수 token 추가: [START_\*], [END_\*]; *은 추출할 field를 의미
 			- 만약 output token sequence가 잘못 구성되었다면, field가 lost된 걸로 봄
-				- [START_name]
+				- [START_name]이 있는데 [END_name]이 없다면, 모델이 name field를 추출하는 걸 실패했다고 가정
+		- ### Pre-training
+			-
 			-
 	- ## Experiments
 		-
