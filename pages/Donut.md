@@ -83,7 +83,8 @@
 	- ## Experiments and Analysis
 		- ### Downstram Tasks and Datasets
 		- ### Document Classification
-		-
+			- 임베딩에 softmax를 취해 분류를 수행하는 모델과는 다르게, 일관되게 태스크를 해결하는 방법을 유지하고자 클래스 정보를 포함하는 json을 생성하도록 함
+			-
 		-
 	- ## Results
 		-
