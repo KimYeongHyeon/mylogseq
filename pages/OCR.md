@@ -22,6 +22,8 @@
 ## [[Key Information Extraction]]
 	- 관심 있는 정보만 추출하는 것.
 	- 필요정보: text, category (date, company 등)
+	- 관련 논문:
+		- [[Donut]]
 - ## [[Sementic Entity Recognition]]
 	- 검출된 단어의 클래스 분류라고 생각해야 할 듯
 	- 필요정보: text, type(heading, question, answer 등)
