@@ -6,10 +6,21 @@
 	- 링크: [[PP-OCR]]
 	- ## Introduction
 		- 기존 [[PP-OCR]]에서 더 개선
+			- 같은 비용으로 정밀도(precision) 7% 개선
 	- ## Related Works
 		-
 	- ## Methodologies
-		-
+		- ![image.png](../assets/image_1671434364980_0.png)
+		- ### Text Detection
+			- #### Collaborative Mutual Learning(CML)
+				- text detection distillation 문제를 해결하고자 제안
+					- 2가지 문제가 있음
+					- 1) teacher 모델의 성능이 학생 성능과 가까워 지면, 일반적인 distillation 방법으로 성능을 올리는데 제한이 있다
+					- 2) 만약 teacher와 student 모델의 구조가 상당히(quite) 다르다면, 일반적인 distillation 방법으로 성능을 올리는데 매우 제한이 있다
+				- 본 프레임워크는 여러 개의 student와 teacher 모델로 이뤄지며, distillation 이후 stduent model은 teacher model의 정확도를 뛰어 넘을 수 있음
+				- CML은 2개의 student model이 DML 방법을 이용해 서로로부터 학습함
+				-
+					-
 	- ## Experiments
 		-
 	- ## Results
