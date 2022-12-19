@@ -1,0 +1,16 @@
+- Paper
+	- 저자:
+	- 날짜:
+	- 상태:
+	- 주소:
+	- 링크: [[PP-OCR]]
+	- ## Introduction
+		- 기존 [[PP-OCR]]에서 더 개선
+	- ## Related Works
+		-
+	- ## Methodologies
+		-
+	- ## Experiments
+		-
+	- ## Results
+		-
