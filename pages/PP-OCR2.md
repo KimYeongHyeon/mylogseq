@@ -36,6 +36,7 @@
 						- $$Loss_{dml}=\frac{{KL(S1_{pout}||S2_{pout})+KL(S2_{pout}||S1_{pout})}}{2}$$
 					- distill loss from teacher model $$L_t$$
 						- sub-student 모델에 대한 teacher model의 감독(supervision)을 반영
+						- teacher model이 성능향상에 중요한 a wealth of knowledge를 studnet models에 제공
 						- $$Loss_{distill}={\gamma}l_p(S_{out},f_{dila}(T_{out}))+l_b(S_{out},f_{dila}(T_{out}))$$
 					-
 				-
