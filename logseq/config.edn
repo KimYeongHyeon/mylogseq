@@ -229,6 +229,7 @@
  :property-pages/enabled? true
  :feature/enable-journals? false
  :default-home {}
+ :journal/page-title-format "yyyy-MM-dd"
 
  ;; Properties to exclude from having property pages
  ;; E.g.:property-pages/excludelist #{:duration :author}
