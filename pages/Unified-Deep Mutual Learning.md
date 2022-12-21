@@ -11,7 +11,11 @@
 			- $$Loss_{ctc}=CTC(S_{hout}, gt)+CTC(T_{hout}, gt)$$
 			- .$$S_{hout}$$은 student의 head output, $$T_{hout}$$은 teacher의 head output
 		- 2) DML loss
-			-
-			- $$$$
+			- $$Loss_{dml}=\frac{KL(S_{pout}||T_{pout})+KL(T_{pout}||S_{pout})}{2}$$
+			- 기존 DML에선 각 네트워크 파라미터가 각자 업데이트 되었으나, 동시에 업데이트 되도록 수정
+			- .$$S_{pout}=Softmax(S_{hout})$$, $$T_{pout}=Softmax(T_{hout})$$
 		- 3) Feature loss
+			- $$Loss_{feat}=L2(S_{bout},T_{bout})$$
+			- .$$S_{bout}$$: student network의 backone 출력
+			- .$$T_{bout}$$: teacher network의 backone 출력
 	-
