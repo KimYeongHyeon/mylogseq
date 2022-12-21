@@ -67,6 +67,9 @@
 					- .$$\lambda$$: 0.05
 					-
 	- ## Experiments
+		- ![image.png](../assets/image_1671610249048_0.png){:height 172, :width 716}
+		- ![image.png](../assets/image_1671610260735_0.png)
+		- ![image.png](../assets/image_1671610271376_0.png) ![image.png](../assets/image_1671610267235_0.png)
 		-
 	- ## Results
 		-
