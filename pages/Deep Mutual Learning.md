@@ -1,0 +1,21 @@
+- Paper
+	- 저자:
+	- 날짜:
+	- 상태:
+	- 주소:
+	-
+	- ## Introduction
+		- 2개의 stduent network가 서로로부터 학습하는 방법
+		- Knowledge distillation을 위해선 pre-trained weight를 지는 더 큰 구조의 teacher network이 필요 없음
+		- 2 Losses
+			- loss function between student networks and groundtruth
+			- Kullback-Leibler disvergence loss among student networks' output soft labels
+			-
+	- ## Related Works
+		-
+	- ## Methodologies
+		-
+	- ## Experiments
+		-
+	- ## Results
+		-
