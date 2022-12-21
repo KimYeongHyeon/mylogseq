@@ -1,3 +1,17 @@
 - # Unified-Deep Mutual Learning (U-DML)
-	- [[Deep Mutual Learning]]의 변종
+	- ![image.png](../assets/image_1671587101188_0.png)
+	- [[Deep Mutual Learning]]과 [[OverHaul]]의 짬뽕
+	- Distillation 과정간 feature map도 고려
+	-
+	- Teacher 와 student network의 구조는 완벽히 똑같으나 초기 가중치는 다름 (scratch학습 수행)
+	- 목표는 같은 입력 이미지에 대해, 2개의 네트워크가 예측결과와 feature map에 대해 같은 출력을 만드는 것
+	- Loss
+		- 3개로 이뤄짐
+		- 1) CTC loss
+			- $$Loss_{ctc}=CTC(S_{hout}, gt)+CTC(T_{hout}, gt)$$
+			- .$$S_{hout}$$은 student의 head output, $$T_{hout}$$은 teacher의 head output
+		- 2) DML loss
+			-
+			- $$$$
+		- 3) Feature loss
 	-
