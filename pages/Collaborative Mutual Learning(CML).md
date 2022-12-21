@@ -1,9 +1,5 @@
+- link: [[PP-OCR2]]
 - ![image.png](../assets/image_1671437402438_0.png)
-- text detection distillation 문제를 해결하고자 제안
-	- 2가지 문제가 있음
-	- 1) teacher 모델의 성능이 학생 성능과 가까워 지면, 일반적인 distillation 방법으로 성능을 올리는데 제한이 있다
-	- 2) 만약 teacher와 student 모델의 구조가 상당히(quite) 다르다면, 일반적인 distillation 방법으로 성능을 올리는데 매우 제한이 있다
-- 목적은 sub-stduent 모델을 최적화 하는 것
 - 본 프레임워크는 여러 개의 student와 teacher 모델로 이뤄지며, distillation 이후 stduent model은 teacher model의 정확도를 뛰어 넘을 수 있음
 - CML은
 	- teacher 모델은 2개의 student model의 학습을 가이드 함
