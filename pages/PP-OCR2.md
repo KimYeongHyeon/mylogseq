@@ -53,6 +53,18 @@
 					-
 				- #### [[Unified-Deep Mutual Learning]] (U-DML)
 					- [[Deep Mutual Learning]]과 [[OverHaul]]의 짬뽕
+				- #### Enhanced CTCLoss
+					- 중국어에는 비슷한 문자가 매우 많음
+					- 약간만 달라도 잘못 인식 되는 경우가 많이 CTCLoss를 개선함
+					- CTCLoss + [[CenterLoss]]
+					- $$L=L_{ctc}+\lambda*L_{center}$$
+					- $$L_{center}=\sum^{T}_{t=1}{||x_{t}-c_{y_t}||^{2}_{2}}$$
+					- .$$x_t$$: feature of timestamp $$t$$
+					- .$$c_{y_t}$$: center of class $$y_t$$
+					- CRNN 알고리즘에서 feature와 라벨간의 misalignment로 인해 $$x_t$$에 대한 뚜렷한 라벨 $$y_t$$가 없어 $$y_t$$를 얻기 위해 greedy decoding strategy를 적용
+						- $$y_t=argmax(W*x_t)$$
+					- .$$W$$: CTC head의 파라미터
+					- .$$\lambda$$: 0.05
 					-
 	- ## Experiments
 		-

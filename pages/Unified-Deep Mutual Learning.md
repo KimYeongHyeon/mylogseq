@@ -18,4 +18,7 @@
 			- $$Loss_{feat}=L2(S_{bout},T_{bout})$$
 			- .$$S_{bout}$$: student network의 backone 출력
 			- .$$T_{bout}$$: teacher network의 backone 출력
-	-
+		- $$Loss_{total}=Loss_{ctc}+Loss_{dml}+Loss_{feat}$$
+	- Piece-wise learning rate strategy가 더 나음을 확인
+	- 추가적으로 CTC-head에 하나의 FC layer만 있는 것을 2개가 되도록 바꿈 (정확도 1.5% 증가)
+-
