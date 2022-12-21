@@ -2,7 +2,7 @@
 	- 저자:
 	- 날짜:
 	- 상태:
-	- 주소:
+	- 주소: https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Deep_Mutual_Learning_CVPR_2018_paper.pdf
 	-
 	- ## Introduction
 		- 2개의 stduent network가 서로로부터 학습하는 방법

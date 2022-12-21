@@ -13,6 +13,10 @@
 		- true label을 이용해 supervised learning
 		- DBNet 이용하므로, probability map loss와 binary map loss의 결합
 		- $$Loss_{gt}(T_{out},gt)=l_p(S_{out},gt)+{\alpha}l_b(S_{out},gt)+{\beta}l_t(S_{out},gt)$$
+			- .$$l_p$$: probability map loss (binary cross entropy)
+			- .$$l_b$$: binary map loss (Dice Loss)
+			- .$$l_t$$: threshold map loss
+			-
 	- peer loss from student model $$L_s$$
 		- $$Loss_{dml}=\frac{{KL(S1_{pout}||S2_{pout})+KL(S2_{pout}||S1_{pout})}}{2}$$
 	- distill loss from teacher model $$L_t$$
