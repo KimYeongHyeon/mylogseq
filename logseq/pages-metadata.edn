@@ -1,4 +1,7 @@
-[{:block/name "a",
+[{:block/name "2022-12-21",
+  :block/created-at 1671584697443,
+  :block/updated-at 1671584697443}
+ {:block/name "a",
   :block/created-at 1665983092128,
   :block/updated-at 1665983092128}
  {:block/name "b",
@@ -34,6 +37,9 @@
  {:block/name "dbnet 사용시 문제",
   :block/created-at 1668490081543,
   :block/updated-at 1668490123906}
+ {:block/name "deep mutual learning",
+  :block/created-at 1671585093401,
+  :block/updated-at 1671585093401}
  {:block/name "detection",
   :block/created-at 1671521588691,
   :block/updated-at 1671521640724}
@@ -55,6 +61,9 @@
  {:block/name "form recognizer",
   :block/created-at 1669612031301,
   :block/updated-at 1669772531002}
+ {:block/name "gap",
+  :block/created-at 1671584886410,
+  :block/updated-at 1671584902070}
  {:block/name "hard nagative mining",
   :block/created-at 1669362793285,
   :block/updated-at 1669362793285}
@@ -82,6 +91,9 @@
  {:block/name "methods for finding near-duplicates",
   :block/created-at 1667882206924,
   :block/updated-at 1667882217829}
+ {:block/name "mixnet",
+  :block/created-at 1671584658975,
+  :block/updated-at 1671584697444}
  {:block/name "mmocr",
   :block/created-at 1669362794012,
   :block/updated-at 1669362794012}
@@ -142,7 +154,7 @@
   :block/updated-at 1671584237216}
  {:block/name "pp-ocr2",
   :block/created-at 1671433586297,
-  :block/updated-at 1671584429892}
+  :block/updated-at 1671585065955}
  {:block/name "ppocrlabel",
   :block/created-at 1669362794382,
   :block/updated-at 1669362794382}
@@ -188,6 +200,9 @@
  {:block/name "todo",
   :block/created-at 1665983092128,
   :block/updated-at 1665983092128}
+ {:block/name "unified-deep mutual learning",
+  :block/created-at 1671585065954,
+  :block/updated-at 1671585095911}
  {:block/name "unrealtext",
   :block/created-at 1669362796007,
   :block/updated-at 1669362796007}
