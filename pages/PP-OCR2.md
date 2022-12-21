@@ -27,7 +27,20 @@
 				- #### Lightweight CPU Network (PP-LCNet)
 					- ![image.png](../assets/image_1671583921611_0.png)
 					- Intel CPU 기반의 lightweight backbone으로 mkldnn enabled인 더 빠르고 더 정확한 OCR recognition 기능 제공
-					-
+					- MobileNetV1을 이용
+						- Intel CPU에서 MKLDNN을 사용한 세팅에서 추론 속도를 최적화하기 위해선 MobileNetV1 구조가 MobileNetV3보다 훨씬 쉬움
+						- MobileNetV1의 구조를 바꿔 특징을 추출하는 기능을 향상 시킴
+						- 4가지 측면에서 구조를 바꿈
+							- 1) Better activation function
+								- fitting 능력을 높이기 위해, 기존 ReLU에서 H-Swish로 바꿈
+								- 그럼으로써 추론 속도는 조금 증가하는 데 비해 눈에 띄게 정확도는 높아짐
+							- 2) [[SE]] modules at appropriate position
+								- Intel CPU상에서 SE는 추론 속도를 증가시킴
+								- 네트워크의 tail에 가까울수록 [[SE]]가 효율적임을 확인
+								- 그래서 SE를 network의 tail 부근에 붙여 acc-speed 밸런스를 확보
+								- SE의 활성화 함수를 ReLU와 H-Sigmoid로 둠
+							- 3) Larger convolution kernels
+								-
 					-
 	- ## Experiments
 		-

@@ -40,12 +40,8 @@
 				- probability map과 threshold map이 합쳐진 feature map으로 부터 생성되는데, inner_channels과 연관되어있음
 				- 즉, inner_channels은 모델 사이즈에 지대한 영향을 줆.
 				- 256 -> 96으로 inner channels을 줄임으로써 모델의 크기는 7M에서 4.1M으로 줄어듦
-			- #### Remove SE
-				- ![image.png](../assets/image_1669610136962_0.png)
-				- SE는 squeeze-and-excitation을 나타냄.
-				- SE block은 채널 간의 상호 종속성(inter-dependency)을 명시적으로 모델링하고 channel-wise feature reponses를 adaptively re-calibration함
-				- SE block은 vision task의 성능을 확실히 올릴 수 있기에, MobileNetV3의 search space에 포함됨
-				- 그런데 입력 해상도의 크기가 클 때 (예를 들어 640x640), SE block으로 channel-wise feature response를 예측하기가 어려워지게 됨
+			- #### Remove [[SE]]
+				- 입력 해상도의 크기가 클 때 (예를 들어 640x640), SE block으로 channel-wise feature response를 예측하기가 어려워지게 됨
 				- 그로 인해 성능 향상은 제한되며, time-cost 또한 증가하게 됨
 				- backbone에서 SE block을 제거할 때, 모델 크기는 4.1M에서 2.5M으로 줄어들고, 성능에는 영향이 없었음
 			- #### Cosine Learning Rate Decay
