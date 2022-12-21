@@ -21,7 +21,7 @@
   :block/updated-at 1665983092128}
  {:block/name "collaborative mutual learning(cml)",
   :block/created-at 1671581436189,
-  :block/updated-at 1671581636318}
+  :block/updated-at 1671583642338}
  {:block/name "contents",
   :block/created-at 1665983092128,
   :block/updated-at 1669609782209}
@@ -139,16 +139,19 @@
   :block/updated-at 1668489768102}
  {:block/name "pp-ocr",
   :block/created-at 1669612031634,
-  :block/updated-at 1669794883896}
+  :block/updated-at 1671584237216}
  {:block/name "pp-ocr2",
   :block/created-at 1671433586297,
-  :block/updated-at 1671581479639}
+  :block/updated-at 1671584429892}
  {:block/name "ppocrlabel",
   :block/created-at 1669362794382,
   :block/updated-at 1669362794382}
  {:block/name "relation extraction",
   :block/created-at 1669787479722,
   :block/updated-at 1669787679112}
+ {:block/name "se",
+  :block/created-at 1671584206154,
+  :block/updated-at 1671584206154}
  {:block/name "sementic entity recognition",
   :block/created-at 1669787469055,
   :block/updated-at 1669787674699}

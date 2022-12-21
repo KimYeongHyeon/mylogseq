@@ -25,6 +25,7 @@
 				- 임의로 선택된 배경에 겹치지 않게 텍스트를 붙여 넣음
 			- ### Text Recognition
 				- #### Lightweight CPU Network (PP-LCNet)
+				  collapsed:: true
 					- ![image.png](../assets/image_1671583921611_0.png)
 					- Intel CPU 기반의 lightweight backbone으로 mkldnn enabled인 더 빠르고 더 정확한 OCR recognition 기능 제공
 					- MobileNetV1을 이용
@@ -40,7 +41,17 @@
 								- 그래서 SE를 network의 tail 부근에 붙여 acc-speed 밸런스를 확보
 								- SE의 활성화 함수를 ReLU와 H-Sigmoid로 둠
 							- 3) Larger convolution kernels
-								-
+								- 커널의 크기는 간혹 최종 성능에 영향을 줌
+								- [[mixnet]]에서 커널 크기에 따라 네트워크 성능의 성능을 분석 함
+									- 하지만 mixture는 추론 속도를 느리게 만듦
+								- 최대한 속도를 조금만 증가 시키는 동시에 커널의 크기를 늘림
+								- 최종적으로 네트워크 tail의 커널 크기를 5x5로 세팅
+							- 4) Larger dimensional 1x1 conv layer after [[GAP]]
+								- PP-LCNet에선 GAP에서 나온 출력의 차원이 작아 최종 분류 레이어에 직접 연결하면 특징 조합을 잃게 만들 수 있음
+								- 강력한 fitting 능력을 주기 위해 12080 차원의 1x1 conv를 GAP layer 다음에 붙여, 추론 속도는 늘리지 않으면서 모델의 크기를 키움
+							- ![image.png](../assets/image_1671585009219_0.png)
+					-
+				- #### [[Unified-Deep Mutual Learning]] (U-DML)
 					-
 	- ## Experiments
 		-
