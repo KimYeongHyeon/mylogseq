@@ -18,6 +18,17 @@
 					- 1) teacher 모델의 성능이 학생 성능과 가까워 지면, 일반적인 distillation 방법으로 성능을 올리는데 제한이 있다
 					- 2) 만약 teacher와 student 모델의 구조가 상당히(quite) 다르다면, 일반적인 distillation 방법으로 성능을 올리는데 매우 제한이 있다
 				- 목적은 sub-stduent 모델을 최적화 하는 것
+			- #### CopyPaste
+				- ![image.png](../assets/image_1671583788599_0.png)
+				- Object detection과 instance segmentation의 성능을 올려주는 augmentation trick
+				- Positive와 negative 샘플의 비율을 조절하기 위해 target instance를 synthesize 하는데, image rotation, random flip, random cropping으로는 불가능 한 것을 수행함
+				- 임의로 선택된 배경에 겹치지 않게 텍스트를 붙여 넣음
+			- ### Text Recognition
+				- #### Lightweight CPU Network (PP-LCNet)
+					- ![image.png](../assets/image_1671583921611_0.png)
+					- Intel CPU 기반의 lightweight backbone으로 mkldnn enabled인 더 빠르고 더 정확한 OCR recognition 기능 제공
+					-
+					-
 	- ## Experiments
 		-
 	- ## Results
