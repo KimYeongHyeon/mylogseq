@@ -213,7 +213,7 @@
 
  :ref/linked-references-collapsed-threshold 50
 
- :favorites []
+ :favorites ["template" "Template 5. Review"]
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
  ;; :srs/learning-fraction 0.5
@@ -227,7 +227,10 @@
 
  ;; Enable all your properties to have corresponding pages
  :property-pages/enabled? true
- :zotero/settings-v2 {"default" {:type-id "a", :attachments-block-text "a", :zotero-linked-attachment-base-directory "", :notes-block-text "a", :page-insert-prefix "a", :extra-tags "a", :zotero-data-directory "a"}}
+ :feature/enable-journals? false
+ :default-home {}
+ :journal/page-title-format "yyyy-MM-dd"
+ :zotero/settings-v2 {#object[Function] {}}
 
  ;; Properties to exclude from having property pages
  ;; E.g.:property-pages/excludelist #{:duration :author}

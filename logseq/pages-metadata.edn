@@ -40,6 +40,9 @@
  {:block/name "dbnet 사용시 문제",
   :block/created-at 1668490081543,
   :block/updated-at 1668490123906}
+ {:block/name "dec 23rd, 2022",
+  :block/created-at 1671775047966,
+  :block/updated-at 1671775047966}
  {:block/name "deep mutual learning",
   :block/created-at 1671585093401,
   :block/updated-at 1671611394462}
